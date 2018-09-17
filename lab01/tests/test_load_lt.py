@@ -1,5 +1,5 @@
 test = {
-  'name': 'Question',
+  'name': 'load life table',
   'points': 1,
   'suites': [
     {
@@ -11,7 +11,6 @@ test = {
           True
           """,
           'hidden': False,
-          'locked': True
         },
         {
           'code': r"""
@@ -19,7 +18,6 @@ test = {
           True
           """,
           'hidden': False,
-          'locked': True
         },
         {
           'code': r"""
@@ -27,7 +25,6 @@ test = {
           True
           """,
           'hidden': False,
-          'locked': True
         },
         {
           'code': r"""
@@ -35,7 +32,6 @@ test = {
           True
           """,
           'hidden': False,
-          'locked': True
         }          
       ],
       'scored': True,

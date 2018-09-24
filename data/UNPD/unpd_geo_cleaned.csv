@@ -1,0 +1,234 @@
+row,area,notes,country_code,iso3,location_type_code,subregion_code,subregion_name,region_code,region_name,more_developed,less_developed,least_developed,less_not_least_developed,high_income,middle_income,upper_middle_income,lower_middle_income,low_income,sub_saharan_africa,wpp_explicit_hiv_model,population_lt_90k,income_level
+15,Burundi,NA,108,BDI,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+16,Comoros,NA,174,COM,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+17,Djibouti,NA,262,DJI,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,middle
+18,Eritrea,NA,232,ERI,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+19,Ethiopia,NA,231,ETH,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+20,Kenya,NA,404,KEN,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,middle
+21,Madagascar,NA,450,MDG,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+22,Malawi,NA,454,MWI,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+23,Mauritius,1,480,MUS,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,middle
+24,Mayotte,NA,175,MYT,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,Yes,No,No,
+25,Mozambique,NA,508,MOZ,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+26,Réunion,NA,638,REU,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,Yes,No,No,
+27,Rwanda,NA,646,RWA,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+28,Seychelles,NA,690,SYC,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,high
+29,Somalia,NA,706,SOM,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+30,South Sudan,NA,728,SSD,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+31,Uganda,NA,800,UGA,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+32,United Republic of Tanzania,2,834,TZA,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+33,Zambia,NA,894,ZMB,4,910,Eastern Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,middle
+34,Zimbabwe,NA,716,ZWE,4,910,Eastern Africa,903,Africa,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,low
+36,Angola,NA,24,AGO,4,911,Middle Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,middle
+37,Cameroon,NA,120,CMR,4,911,Middle Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,middle
+38,Central African Republic,NA,140,CAF,4,911,Middle Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,No,low
+39,Chad,NA,148,TCD,4,911,Middle Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+40,Congo,NA,178,COG,4,911,Middle Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,middle
+41,Democratic Republic of the Congo,NA,180,COD,4,911,Middle Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+42,Equatorial Guinea,NA,226,GNQ,4,911,Middle Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,middle
+43,Gabon,NA,266,GAB,4,911,Middle Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,middle
+44,Sao Tome and Principe,NA,678,STP,4,911,Middle Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,middle
+46,Algeria,NA,12,DZA,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+47,Egypt,NA,818,EGY,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+48,Libya,NA,434,LBY,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+49,Morocco,NA,504,MAR,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+50,Sudan,NA,729,SDN,4,912,Northern Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+51,Tunisia,NA,788,TUN,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+52,Western Sahara,NA,732,ESH,4,912,Northern Africa,903,Africa,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,No,
+54,Botswana,NA,72,BWA,4,913,Southern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,middle
+55,Lesotho,NA,426,LSO,4,913,Southern Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,middle
+56,Namibia,NA,516,NAM,4,913,Southern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,middle
+57,South Africa,NA,710,ZAF,4,913,Southern Africa,903,Africa,No,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,middle
+58,Swaziland,NA,748,SWZ,4,913,Southern Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,middle
+60,Benin,NA,204,BEN,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+61,Burkina Faso,NA,854,BFA,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+62,Cabo Verde,NA,132,CPV,4,914,Western Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,middle
+63,Côte d'Ivoire,NA,384,CIV,4,914,Western Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,middle
+64,Gambia,NA,270,GMB,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+65,Ghana,NA,288,GHA,4,914,Western Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,middle
+66,Guinea,NA,324,GIN,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+67,Guinea-Bissau,NA,624,GNB,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+68,Liberia,NA,430,LBR,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+69,Mali,NA,466,MLI,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+70,Mauritania,NA,478,MRT,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,middle
+71,Niger,NA,562,NER,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+72,Nigeria,NA,566,NGA,4,914,Western Africa,903,Africa,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,middle
+73,Saint Helena,3,654,SHN,4,914,Western Africa,903,Africa,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,Yes,No,Yes,
+74,Senegal,NA,686,SEN,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+75,Sierra Leone,NA,694,SLE,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+76,Togo,NA,768,TGO,4,914,Western Africa,903,Africa,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,low
+79,China,4,156,CHN,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+80,"China, Hong Kong SAR",5,344,HKG,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+81,"China, Macao SAR",6,446,MAC,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+82,"China, Taiwan Province of China",NA,158,TWN,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+83,Dem. People's Republic of Korea,NA,408,PRK,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,low
+84,Japan,NA,392,JPN,4,906,Eastern Asia,935,Asia,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+85,Mongolia,NA,496,MNG,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+86,Republic of Korea,NA,410,KOR,4,906,Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+89,Kazakhstan,NA,398,KAZ,4,5500,Central Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+90,Kyrgyzstan,NA,417,KGZ,4,5500,Central Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+91,Tajikistan,NA,762,TJK,4,5500,Central Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+92,Turkmenistan,NA,795,TKM,4,5500,Central Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+93,Uzbekistan,NA,860,UZB,4,5500,Central Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+95,Afghanistan,NA,4,AFG,4,5501,Southern Asia,935,Asia,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,low
+96,Bangladesh,NA,50,BGD,4,5501,Southern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+97,Bhutan,NA,64,BTN,4,5501,Southern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+98,India,NA,356,IND,4,5501,Southern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+99,Iran (Islamic Republic of),NA,364,IRN,4,5501,Southern Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+100,Maldives,NA,462,MDV,4,5501,Southern Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+101,Nepal,NA,524,NPL,4,5501,Southern Asia,935,Asia,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,low
+102,Pakistan,NA,586,PAK,4,5501,Southern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+103,Sri Lanka,NA,144,LKA,4,5501,Southern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+105,Brunei Darussalam,NA,96,BRN,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+106,Cambodia,NA,116,KHM,4,920,South-Eastern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+107,Indonesia,NA,360,IDN,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+108,Lao People's Democratic Republic,NA,418,LAO,4,920,South-Eastern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+109,Malaysia,8,458,MYS,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+110,Myanmar,NA,104,MMR,4,920,South-Eastern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+111,Philippines,NA,608,PHL,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+112,Singapore,NA,702,SGP,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+113,Thailand,NA,764,THA,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+114,Timor-Leste,NA,626,TLS,4,920,South-Eastern Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+115,Viet Nam,NA,704,VNM,4,920,South-Eastern Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+117,Armenia,NA,51,ARM,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+118,Azerbaijan,9,31,AZE,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+119,Bahrain,NA,48,BHR,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+120,Cyprus,10,196,CYP,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+121,Georgia,11,268,GEO,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+122,Iraq,NA,368,IRQ,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+123,Israel,NA,376,ISR,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+124,Jordan,NA,400,JOR,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+125,Kuwait,NA,414,KWT,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+126,Lebanon,NA,422,LBN,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+127,Oman,NA,512,OMN,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+128,Qatar,NA,634,QAT,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+129,Saudi Arabia,NA,682,SAU,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+130,State of Palestine,12,275,PSE,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+131,Syrian Arab Republic,NA,760,SYR,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+132,Turkey,NA,792,TUR,4,922,Western Asia,935,Asia,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+133,United Arab Emirates,NA,784,ARE,4,922,Western Asia,935,Asia,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+134,Yemen,NA,887,YEM,4,922,Western Asia,935,Asia,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+137,Belarus,NA,112,BLR,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+138,Bulgaria,NA,100,BGR,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+139,Czechia,NA,203,CZE,4,923,Eastern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+140,Hungary,NA,348,HUN,4,923,Eastern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+141,Poland,NA,616,POL,4,923,Eastern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+142,Republic of Moldova,13,498,MDA,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,middle
+143,Romania,NA,642,ROU,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+144,Russian Federation,NA,643,RUS,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+145,Slovakia,NA,703,SVK,4,923,Eastern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+146,Ukraine,14,804,UKR,4,923,Eastern Europe,908,Europe,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,middle
+148,Channel Islands,15,830,CHI,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+149,Denmark,NA,208,DNK,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+150,Estonia,NA,233,EST,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+151,Faeroe Islands,NA,234,FRO,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+152,Finland,16,246,FIN,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+153,Iceland,NA,352,ISL,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+154,Ireland,NA,372,IRL,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+155,Isle of Man,NA,833,IMN,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+156,Latvia,NA,428,LVA,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+157,Lithuania,NA,440,LTU,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+158,Norway,17,578,NOR,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+159,Sweden,NA,752,SWE,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+160,United Kingdom,NA,826,GBR,4,924,Northern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+162,Albania,NA,8,ALB,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+163,Andorra,NA,20,AND,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+164,Bosnia and Herzegovina,NA,70,BIH,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+165,Croatia,NA,191,HRV,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+166,Gibraltar,NA,292,GIB,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+167,Greece,NA,300,GRC,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+168,Holy See,18,336,VAT,4,925,Southern Europe,908,Europe,Yes,No,No,No,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+169,Italy,NA,380,ITA,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+170,Malta,NA,470,MLT,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+171,Montenegro,NA,499,MNE,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+172,Portugal,NA,620,PRT,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+173,San Marino,NA,674,SMR,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+174,Serbia,19,688,SRB,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+175,Slovenia,NA,705,SVN,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+176,Spain,20,724,ESP,4,925,Southern Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+177,TFYR Macedonia,21,807,MKD,4,925,Southern Europe,908,Europe,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,middle
+179,Austria,NA,40,AUT,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+180,Belgium,NA,56,BEL,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+181,France,NA,250,FRA,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+182,Germany,NA,276,DEU,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+183,Liechtenstein,NA,438,LIE,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+184,Luxembourg,NA,442,LUX,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+185,Monaco,NA,492,MCO,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+186,Netherlands,NA,528,NLD,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+187,Switzerland,NA,756,CHE,4,926,Western Europe,908,Europe,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+190,Anguilla,NA,660,AIA,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+191,Antigua and Barbuda,NA,28,ATG,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+192,Aruba,NA,533,ABW,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+193,Bahamas,NA,44,BHS,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+194,Barbados,NA,52,BRB,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+195,British Virgin Islands,NA,92,VGB,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+196,Caribbean Netherlands,22,535,BES,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+197,Cayman Islands,NA,136,CYM,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+198,Cuba,NA,192,CUB,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+199,Curaçao,NA,531,CUW,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+200,Dominica,NA,212,DMA,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,middle
+201,Dominican Republic,NA,214,DOM,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+202,Grenada,NA,308,GRD,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+203,Guadeloupe,23,312,GLP,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,No,
+204,Haiti,NA,332,HTI,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,low
+205,Jamaica,NA,388,JAM,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+206,Martinique,NA,474,MTQ,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,No,
+207,Montserrat,NA,500,MSR,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+208,Puerto Rico,NA,630,PRI,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+209,Saint Kitts and Nevis,NA,659,KNA,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+210,Saint Lucia,NA,662,LCA,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+211,Saint Vincent and the Grenadines,NA,670,VCT,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+212,Sint Maarten (Dutch part),NA,534,SXM,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+213,Trinidad and Tobago,NA,780,TTO,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+214,Turks and Caicos Islands,NA,796,TCA,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+215,United States Virgin Islands,NA,850,VIR,4,915,Caribbean,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+217,Belize,NA,84,BLZ,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+218,Costa Rica,NA,188,CRI,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+219,El Salvador,NA,222,SLV,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+220,Guatemala,NA,320,GTM,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+221,Honduras,NA,340,HND,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+222,Mexico,NA,484,MEX,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+223,Nicaragua,NA,558,NIC,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+224,Panama,NA,591,PAN,4,916,Central America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+226,Argentina,NA,32,ARG,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+227,Bolivia (Plurinational State of),NA,68,BOL,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+228,Brazil,NA,76,BRA,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+229,Chile,NA,152,CHL,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+230,Colombia,NA,170,COL,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+231,Ecuador,NA,218,ECU,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+232,Falkland Islands (Malvinas),24,238,FLK,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+233,French Guiana,NA,254,GUF,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,No,
+234,Guyana,NA,328,GUY,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+235,Paraguay,NA,600,PRY,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+236,Peru,NA,604,PER,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+237,Suriname,NA,740,SUR,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+238,Uruguay,NA,858,URY,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+239,Venezuela (Bolivarian Republic of),NA,862,VEN,4,931,South America,904,Latin America and the Caribbean,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+241,Bermuda,NA,60,BMU,4,NA,NA,905,Northern America,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+242,Canada,NA,124,CAN,4,NA,NA,905,Northern America,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+243,Greenland,NA,304,GRL,4,NA,NA,905,Northern America,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,high
+244,Saint Pierre and Miquelon,NA,666,SPM,4,NA,NA,905,Northern America,Yes,No,No,No,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+245,United States of America,NA,840,USA,4,NA,NA,905,Northern America,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+248,Australia,25,36,AUS,4,927,Australia/New Zealand,909,Oceania,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+249,New Zealand,NA,554,NZL,4,927,Australia/New Zealand,909,Oceania,Yes,No,No,No,Yes,No,No,No,No,No,No,No,high
+251,Fiji,NA,242,FJI,4,928,Melanesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+252,New Caledonia,NA,540,NCL,4,928,Melanesia,909,Oceania,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+253,Papua New Guinea,NA,598,PNG,4,928,Melanesia,909,Oceania,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+254,Solomon Islands,NA,90,SLB,4,928,Melanesia,909,Oceania,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+255,Vanuatu,NA,548,VUT,4,928,Melanesia,909,Oceania,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+257,Guam,NA,316,GUM,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+258,Kiribati,NA,296,KIR,4,954,Micronesia,909,Oceania,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,middle
+259,Marshall Islands,NA,584,MHL,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,middle
+260,Micronesia (Fed. States of),NA,583,FSM,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,middle
+261,Nauru,NA,520,NRU,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,middle
+262,Northern Mariana Islands,NA,580,MNP,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+263,Palau,NA,585,PLW,4,954,Micronesia,909,Oceania,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,high
+265,American Samoa,NA,16,ASM,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,middle
+266,Cook Islands,NA,184,COK,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+267,French Polynesia,NA,258,PYF,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,high
+268,Niue,NA,570,NIU,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+269,Samoa,NA,882,WSM,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+270,Tokelau,NA,772,TKL,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,
+271,Tonga,NA,776,TON,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,middle
+272,Tuvalu,NA,798,TUV,4,957,Polynesia,909,Oceania,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,middle
+273,Wallis and Futuna Islands,NA,876,WLF,4,957,Polynesia,909,Oceania,No,Yes,No,Yes,Not available,Not available,Not available,Not available,Not available,No,No,Yes,

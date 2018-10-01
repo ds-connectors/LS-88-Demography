@@ -1,0 +1,2614 @@
+row,variant,area,notes,country_code,period,tfr
+15,Estimates,Burundi,NA,108,1955,6.801
+16,Estimates,Comoros,NA,174,1955,6
+17,Estimates,Djibouti,NA,262,1955,6.312
+18,Estimates,Eritrea,NA,232,1955,6.965
+19,Estimates,Ethiopia,NA,231,1955,7.1696
+20,Estimates,Kenya,NA,404,1955,7.481
+21,Estimates,Madagascar,NA,450,1955,7.3
+22,Estimates,Malawi,NA,454,1955,6.85
+23,Estimates,Mauritius,1,480,1955,5.895
+24,Estimates,Mayotte,NA,175,1955,7.91
+25,Estimates,Mozambique,NA,508,1955,7
+26,Estimates,Réunion,NA,638,1955,6.9294
+27,Estimates,Rwanda,NA,646,1955,8
+28,Estimates,Seychelles,NA,690,1955,5
+29,Estimates,Somalia,NA,706,1955,7.25
+30,Estimates,South Sudan,NA,728,1955,6.65
+31,Estimates,Uganda,NA,800,1955,6.9
+32,Estimates,United Republic of Tanzania,2,834,1955,6.74
+33,Estimates,Zambia,NA,894,1955,6.7
+34,Estimates,Zimbabwe,NA,716,1955,6.8
+36,Estimates,Angola,NA,24,1955,7.3
+37,Estimates,Cameroon,NA,120,1955,5.489
+38,Estimates,Central African Republic,NA,140,1955,5.516
+39,Estimates,Chad,NA,148,1955,6.1
+40,Estimates,Congo,NA,178,1955,5.684
+41,Estimates,Democratic Republic of the Congo,NA,180,1955,5.98
+42,Estimates,Equatorial Guinea,NA,226,1955,5.666
+43,Estimates,Gabon,NA,266,1955,3.987
+44,Estimates,Sao Tome and Principe,NA,678,1955,6.2
+46,Estimates,Algeria,NA,12,1955,7.278
+47,Estimates,Egypt,NA,818,1955,6.75
+48,Estimates,Libya,NA,434,1955,7.1434
+49,Estimates,Morocco,NA,504,1955,6.608
+50,Estimates,Sudan,NA,729,1955,6.65
+51,Estimates,Tunisia,NA,788,1955,6.65
+52,Estimates,Western Sahara,NA,732,1955,6.342
+54,Estimates,Botswana,NA,72,1955,6.5
+55,Estimates,Lesotho,NA,426,1955,5.84
+56,Estimates,Namibia,NA,516,1955,6
+57,Estimates,South Africa,NA,710,1955,6.05
+58,Estimates,Swaziland,NA,748,1955,6.7
+60,Estimates,Benin,NA,204,1955,5.857
+61,Estimates,Burkina Faso,NA,854,1955,6.1035
+62,Estimates,Cabo Verde,NA,132,1955,6.5663
+63,Estimates,Côte d'Ivoire,NA,384,1955,7.4513
+64,Estimates,Gambia,NA,270,1955,5.2875
+65,Estimates,Ghana,NA,288,1955,6.442
+66,Estimates,Guinea,NA,324,1955,6
+67,Estimates,Guinea-Bissau,NA,624,1955,5.9
+68,Estimates,Liberia,NA,430,1955,6.2714
+69,Estimates,Mali,NA,466,1955,6.95
+70,Estimates,Mauritania,NA,478,1955,6.3378
+71,Estimates,Niger,NA,562,1955,7.3
+72,Estimates,Nigeria,NA,566,1955,6.3544
+73,Estimates,Senegal,NA,686,1955,6.8
+74,Estimates,Sierra Leone,NA,694,1955,6.0297
+75,Estimates,Togo,NA,768,1955,6.3344
+78,Estimates,China,4,156,1955,6.025
+79,Estimates,"China, Hong Kong SAR",5,344,1955,4.44
+80,Estimates,"China, Macao SAR",6,446,1955,4.3858
+81,Estimates,"China, Taiwan Province of China",NA,158,1955,6.72
+82,Estimates,Dem. People's Republic of Korea,NA,408,1955,3.462
+83,Estimates,Japan,NA,392,1955,2.96
+84,Estimates,Mongolia,NA,496,1955,5.6
+85,Estimates,Republic of Korea,NA,410,1955,5.653
+88,Estimates,Kazakhstan,NA,398,1955,4.406
+89,Estimates,Kyrgyzstan,NA,417,1955,4.3607
+90,Estimates,Tajikistan,NA,762,1955,5.4
+91,Estimates,Turkmenistan,NA,795,1955,5.3
+92,Estimates,Uzbekistan,NA,860,1955,5.3
+94,Estimates,Afghanistan,NA,4,1955,7.45
+95,Estimates,Bangladesh,NA,50,1955,6.359
+96,Estimates,Bhutan,NA,64,1955,6.67
+97,Estimates,India,NA,356,1955,5.903
+98,Estimates,Iran (Islamic Republic of),NA,364,1955,6.9086
+99,Estimates,Maldives,NA,462,1955,6.0299
+100,Estimates,Nepal,NA,524,1955,5.9588
+101,Estimates,Pakistan,NA,586,1955,6.6
+102,Estimates,Sri Lanka,NA,144,1955,5.8
+104,Estimates,Brunei Darussalam,NA,96,1955,6.8958
+105,Estimates,Cambodia,NA,116,1955,6.947
+106,Estimates,Indonesia,NA,360,1955,5.486
+107,Estimates,Lao People's Democratic Republic,NA,418,1955,5.9432
+108,Estimates,Malaysia,8,458,1955,6.3487
+109,Estimates,Myanmar,NA,104,1955,6
+110,Estimates,Philippines,NA,608,1955,7.4201
+111,Estimates,Singapore,NA,702,1955,6.61
+112,Estimates,Thailand,NA,764,1955,6.1378
+113,Estimates,Timor-Leste,NA,626,1955,6.441
+114,Estimates,Viet Nam,NA,704,1955,5.3986
+116,Estimates,Armenia,NA,51,1955,4.494
+117,Estimates,Azerbaijan,9,31,1955,5.2
+118,Estimates,Bahrain,NA,48,1955,6.97
+119,Estimates,Cyprus,10,196,1955,3.705
+120,Estimates,Georgia,11,268,1955,2.75
+121,Estimates,Iraq,NA,368,1955,7.3
+122,Estimates,Israel,NA,376,1955,4.277
+123,Estimates,Jordan,NA,400,1955,7.38
+124,Estimates,Kuwait,NA,414,1955,7.2
+125,Estimates,Lebanon,NA,422,1955,5.74
+126,Estimates,Oman,NA,512,1955,7.252
+127,Estimates,Qatar,NA,634,1955,6.97
+128,Estimates,Saudi Arabia,NA,682,1955,7.175
+129,Estimates,State of Palestine,12,275,1955,7.38
+130,Estimates,Syrian Arab Republic,NA,760,1955,7.227
+131,Estimates,Turkey,NA,792,1955,6.6859
+132,Estimates,United Arab Emirates,NA,784,1955,6.97
+133,Estimates,Yemen,NA,887,1955,7.35
+136,Estimates,Belarus,NA,112,1955,2.61
+137,Estimates,Bulgaria,NA,100,1955,2.5264
+138,Estimates,Czechia,NA,203,1955,2.7383
+139,Estimates,Hungary,NA,348,1955,2.686
+140,Estimates,Poland,NA,616,1955,3.6302
+141,Estimates,Republic of Moldova,13,498,1955,3.5
+142,Estimates,Romania,NA,642,1955,3.0596
+143,Estimates,Russian Federation,NA,643,1955,2.85
+144,Estimates,Slovakia,NA,703,1955,3.5022
+145,Estimates,Ukraine,14,804,1955,2.81
+147,Estimates,Channel Islands,16,830,1955,2.056
+148,Estimates,Denmark,NA,208,1955,2.5501
+149,Estimates,Estonia,NA,233,1955,2.06
+150,Estimates,Finland,17,246,1955,2.997
+151,Estimates,Iceland,NA,352,1955,3.8624
+152,Estimates,Ireland,NA,372,1955,3.42
+153,Estimates,Latvia,NA,428,1955,2
+154,Estimates,Lithuania,NA,440,1955,2.84
+155,Estimates,Norway,18,578,1955,2.602
+156,Estimates,Sweden,NA,752,1955,2.2372
+157,Estimates,United Kingdom,NA,826,1955,2.18
+159,Estimates,Albania,NA,8,1955,6.23
+160,Estimates,Bosnia and Herzegovina,NA,70,1955,4.82
+161,Estimates,Croatia,NA,191,1955,2.73
+162,Estimates,Greece,NA,300,1955,2.4795
+163,Estimates,Italy,NA,380,1955,2.355
+164,Estimates,Malta,NA,470,1955,4.136
+165,Estimates,Montenegro,NA,499,1955,4.3464
+166,Estimates,Portugal,NA,620,1955,3.0988
+167,Estimates,Serbia,20,688,1955,3.22
+168,Estimates,Slovenia,NA,705,1955,2.68
+169,Estimates,Spain,21,724,1955,2.53
+170,Estimates,TFYR Macedonia,22,807,1955,5.0572
+172,Estimates,Austria,NA,40,1955,2.1046
+173,Estimates,Belgium,NA,56,1955,2.365
+174,Estimates,France,NA,250,1955,2.7472
+175,Estimates,Germany,NA,276,1955,2.128
+176,Estimates,Luxembourg,NA,442,1955,1.98
+177,Estimates,Netherlands,NA,528,1955,3.0524
+178,Estimates,Switzerland,NA,756,1955,2.3101
+181,Estimates,Antigua and Barbuda,NA,28,1955,4.5
+182,Estimates,Aruba,NA,533,1955,5.65
+183,Estimates,Bahamas,NA,44,1955,4.05
+184,Estimates,Barbados,NA,52,1955,4.417
+185,Estimates,Cuba,NA,192,1955,4.15
+186,Estimates,Curaçao,NA,531,1955,5.07
+187,Estimates,Dominican Republic,NA,214,1955,7.5995
+188,Estimates,Grenada,NA,308,1955,5.8
+189,Estimates,Guadeloupe,25,312,1955,5.61
+190,Estimates,Haiti,NA,332,1955,6.3
+191,Estimates,Jamaica,NA,388,1955,4.22
+192,Estimates,Martinique,NA,474,1955,5.71
+193,Estimates,Puerto Rico,NA,630,1955,4.97
+194,Estimates,Saint Lucia,NA,662,1955,6
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1955,7.33
+196,Estimates,Trinidad and Tobago,NA,780,1955,5.3
+197,Estimates,United States Virgin Islands,NA,850,1955,5.2509
+199,Estimates,Belize,NA,84,1955,6.65
+200,Estimates,Costa Rica,NA,188,1955,5.9462
+201,Estimates,El Salvador,NA,222,1955,6.3616
+202,Estimates,Guatemala,NA,320,1955,7.1196
+203,Estimates,Honduras,NA,340,1955,7.497
+204,Estimates,Mexico,NA,484,1955,6.75
+205,Estimates,Nicaragua,NA,558,1955,7.2
+206,Estimates,Panama,NA,591,1955,5.7641
+208,Estimates,Argentina,NA,32,1955,3.154
+209,Estimates,Bolivia (Plurinational State of),NA,68,1955,6.89
+210,Estimates,Brazil,NA,76,1955,6.1
+211,Estimates,Chile,NA,152,1955,5.1461
+212,Estimates,Colombia,NA,170,1955,6.76
+213,Estimates,Ecuador,NA,218,1955,6.75
+214,Estimates,French Guiana,NA,254,1955,5
+215,Estimates,Guyana,NA,328,1955,6.0421
+216,Estimates,Paraguay,NA,600,1955,6.5
+217,Estimates,Peru,NA,604,1955,6.95
+218,Estimates,Suriname,NA,740,1955,6.56
+219,Estimates,Uruguay,NA,858,1955,2.73
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1955,6.4585
+222,Estimates,Canada,NA,124,1955,3.645
+223,Estimates,United States of America,NA,840,1955,3.311
+226,Estimates,Australia,28,36,1955,3.18
+227,Estimates,New Zealand,NA,554,1955,3.688
+229,Estimates,Fiji,NA,242,1955,6.625
+230,Estimates,New Caledonia,NA,540,1955,5.2231
+231,Estimates,Papua New Guinea,NA,598,1955,6.238
+232,Estimates,Solomon Islands,NA,90,1955,6.4
+233,Estimates,Vanuatu,NA,548,1955,7.6
+235,Estimates,Guam,NA,316,1955,5.527
+236,Estimates,Kiribati,NA,296,1955,6.1
+237,Estimates,Micronesia (Fed. States of),NA,583,1955,7.2
+239,Estimates,French Polynesia,NA,258,1955,6
+240,Estimates,Samoa,NA,882,1955,7.6297
+241,Estimates,Tonga,NA,776,1955,7.3
+15,Estimates,Burundi,NA,108,1960,6.857
+16,Estimates,Comoros,NA,174,1960,6.601
+17,Estimates,Djibouti,NA,262,1960,6.3874
+18,Estimates,Eritrea,NA,232,1960,6.965
+19,Estimates,Ethiopia,NA,231,1960,6.9023
+20,Estimates,Kenya,NA,404,1960,7.785
+21,Estimates,Madagascar,NA,450,1960,7.3
+22,Estimates,Malawi,NA,454,1960,6.9
+23,Estimates,Mauritius,1,480,1960,5.895
+24,Estimates,Mayotte,NA,175,1960,7.91
+25,Estimates,Mozambique,NA,508,1960,7
+26,Estimates,Réunion,NA,638,1960,6.5699
+27,Estimates,Rwanda,NA,646,1960,8.15
+28,Estimates,Seychelles,NA,690,1960,5
+29,Estimates,Somalia,NA,706,1960,7.25
+30,Estimates,South Sudan,NA,728,1960,6.7
+31,Estimates,Uganda,NA,800,1960,6.95
+32,Estimates,United Republic of Tanzania,2,834,1960,6.801
+33,Estimates,Zambia,NA,894,1960,6.95
+34,Estimates,Zimbabwe,NA,716,1960,7
+36,Estimates,Angola,NA,24,1960,7.35
+37,Estimates,Cameroon,NA,120,1960,5.527
+38,Estimates,Central African Republic,NA,140,1960,5.75
+39,Estimates,Chad,NA,148,1960,6.2
+40,Estimates,Congo,NA,178,1960,5.786
+41,Estimates,Democratic Republic of the Congo,NA,180,1960,5.98
+42,Estimates,Equatorial Guinea,NA,226,1960,5.6526
+43,Estimates,Gabon,NA,266,1960,4.201
+44,Estimates,Sao Tome and Principe,NA,678,1960,6.2
+46,Estimates,Algeria,NA,12,1960,7.384
+47,Estimates,Egypt,NA,818,1960,6.75
+48,Estimates,Libya,NA,434,1960,7.2
+49,Estimates,Morocco,NA,504,1960,6.896
+50,Estimates,Sudan,NA,729,1960,6.65
+51,Estimates,Tunisia,NA,788,1960,6.85
+52,Estimates,Western Sahara,NA,732,1960,6.424
+54,Estimates,Botswana,NA,72,1960,6.575
+55,Estimates,Lesotho,NA,426,1960,5.861
+56,Estimates,Namibia,NA,516,1960,6.1
+57,Estimates,South Africa,NA,710,1960,6.05
+58,Estimates,Swaziland,NA,748,1960,6.7
+60,Estimates,Benin,NA,204,1960,6.1341
+61,Estimates,Burkina Faso,NA,854,1960,6.243
+62,Estimates,Cabo Verde,NA,132,1960,6.764
+63,Estimates,Côte d'Ivoire,NA,384,1960,7.6194
+64,Estimates,Gambia,NA,270,1960,5.4639
+65,Estimates,Ghana,NA,288,1960,6.6391
+66,Estimates,Guinea,NA,324,1960,6.0742
+67,Estimates,Guinea-Bissau,NA,624,1960,5.9
+68,Estimates,Liberia,NA,430,1960,6.3502
+69,Estimates,Mali,NA,466,1960,6.95
+70,Estimates,Mauritania,NA,478,1960,6.7053
+71,Estimates,Niger,NA,562,1960,7.4
+72,Estimates,Nigeria,NA,566,1960,6.3544
+73,Estimates,Senegal,NA,686,1960,6.9
+74,Estimates,Sierra Leone,NA,694,1960,6.0297
+75,Estimates,Togo,NA,768,1960,6.4217
+78,Estimates,China,4,156,1960,5.4
+79,Estimates,"China, Hong Kong SAR",5,344,1960,4.72
+80,Estimates,"China, Macao SAR",6,446,1960,4.81
+81,Estimates,"China, Taiwan Province of China",NA,158,1960,6.1383
+82,Estimates,Dem. People's Republic of Korea,NA,408,1960,5.117
+83,Estimates,Japan,NA,392,1960,2.17
+84,Estimates,Mongolia,NA,496,1960,6.3
+85,Estimates,Republic of Korea,NA,410,1960,6.332
+88,Estimates,Kazakhstan,NA,398,1960,4.555
+89,Estimates,Kyrgyzstan,NA,417,1960,5.1993
+90,Estimates,Tajikistan,NA,762,1960,6.199
+91,Estimates,Turkmenistan,NA,795,1960,6.2
+92,Estimates,Uzbekistan,NA,860,1960,5.9
+94,Estimates,Afghanistan,NA,4,1960,7.45
+95,Estimates,Bangladesh,NA,50,1960,6.6225
+96,Estimates,Bhutan,NA,64,1960,6.67
+97,Estimates,India,NA,356,1960,5.896
+98,Estimates,Iran (Islamic Republic of),NA,364,1960,6.9086
+99,Estimates,Maldives,NA,462,1960,6.8135
+100,Estimates,Nepal,NA,524,1960,5.9588
+101,Estimates,Pakistan,NA,586,1960,6.6
+102,Estimates,Sri Lanka,NA,144,1960,5.8
+104,Estimates,Brunei Darussalam,NA,96,1960,6.8912
+105,Estimates,Cambodia,NA,116,1960,6.947
+106,Estimates,Indonesia,NA,360,1960,5.672
+107,Estimates,Lao People's Democratic Republic,NA,418,1960,5.9552
+108,Estimates,Malaysia,8,458,1960,6.3791
+109,Estimates,Myanmar,NA,104,1960,6
+110,Estimates,Philippines,NA,608,1960,7.2692
+111,Estimates,Singapore,NA,702,1960,6.335
+112,Estimates,Thailand,NA,764,1960,6.1378
+113,Estimates,Timor-Leste,NA,626,1960,6.353
+114,Estimates,Viet Nam,NA,704,1960,6.1636
+116,Estimates,Armenia,NA,51,1960,4.9
+117,Estimates,Azerbaijan,9,31,1960,5.6
+118,Estimates,Bahrain,NA,48,1960,6.97
+119,Estimates,Cyprus,10,196,1960,3.498
+120,Estimates,Georgia,11,268,1960,2.909
+121,Estimates,Iraq,NA,368,1960,6.202
+122,Estimates,Israel,NA,376,1960,3.8916
+123,Estimates,Jordan,NA,400,1960,7.38
+124,Estimates,Kuwait,NA,414,1960,7.2
+125,Estimates,Lebanon,NA,422,1960,5.72
+126,Estimates,Oman,NA,512,1960,7.252
+127,Estimates,Qatar,NA,634,1960,6.97
+128,Estimates,Saudi Arabia,NA,682,1960,7.175
+129,Estimates,State of Palestine,12,275,1960,7.38
+130,Estimates,Syrian Arab Republic,NA,760,1960,7.3755
+131,Estimates,Turkey,NA,792,1960,6.4959
+132,Estimates,United Arab Emirates,NA,784,1960,6.97
+133,Estimates,Yemen,NA,887,1960,7.4
+136,Estimates,Belarus,NA,112,1960,2.73
+137,Estimates,Bulgaria,NA,100,1960,2.2969
+138,Estimates,Czechia,NA,203,1960,2.3765
+139,Estimates,Hungary,NA,348,1960,2.3178
+140,Estimates,Poland,NA,616,1960,3.4698
+141,Estimates,Republic of Moldova,13,498,1960,3.44
+142,Estimates,Romania,NA,642,1960,2.735
+143,Estimates,Russian Federation,NA,643,1960,2.82
+144,Estimates,Slovakia,NA,703,1960,3.2427
+145,Estimates,Ukraine,14,804,1960,2.7
+147,Estimates,Channel Islands,16,830,1960,2.222
+148,Estimates,Denmark,NA,208,1960,2.5468
+149,Estimates,Estonia,NA,233,1960,1.99
+150,Estimates,Finland,17,246,1960,2.769
+151,Estimates,Iceland,NA,352,1960,4.1662
+152,Estimates,Ireland,NA,372,1960,3.58
+153,Estimates,Latvia,NA,428,1960,1.95
+154,Estimates,Lithuania,NA,440,1960,2.66
+155,Estimates,Norway,18,578,1960,2.837
+156,Estimates,Sweden,NA,752,1960,2.247
+157,Estimates,United Kingdom,NA,826,1960,2.49
+159,Estimates,Albania,NA,8,1960,6.5462
+160,Estimates,Bosnia and Herzegovina,NA,70,1960,3.97
+161,Estimates,Croatia,NA,191,1960,2.38
+162,Estimates,Greece,NA,300,1960,2.4194
+163,Estimates,Italy,NA,380,1960,2.29
+164,Estimates,Malta,NA,470,1960,3.8
+165,Estimates,Montenegro,NA,499,1960,3.795
+166,Estimates,Portugal,NA,620,1960,3.1216
+167,Estimates,Serbia,20,688,1960,2.57
+168,Estimates,Slovenia,NA,705,1960,2.3833
+169,Estimates,Spain,21,724,1960,2.7
+170,Estimates,TFYR Macedonia,22,807,1960,4.1429
+172,Estimates,Austria,NA,40,1960,2.5652
+173,Estimates,Belgium,NA,56,1960,2.496
+174,Estimates,France,NA,250,1960,2.6894
+175,Estimates,Germany,NA,276,1960,2.274
+176,Estimates,Luxembourg,NA,442,1960,2.23
+177,Estimates,Netherlands,NA,528,1960,3.0974
+178,Estimates,Switzerland,NA,756,1960,2.3912
+181,Estimates,Antigua and Barbuda,NA,28,1960,4.5
+182,Estimates,Aruba,NA,533,1960,5.15
+183,Estimates,Bahamas,NA,44,1960,4.31
+184,Estimates,Barbados,NA,52,1960,4.2969
+185,Estimates,Cuba,NA,192,1960,3.6995
+186,Estimates,Curaçao,NA,531,1960,5.1
+187,Estimates,Dominican Republic,NA,214,1960,7.6405
+188,Estimates,Grenada,NA,308,1960,6.7
+189,Estimates,Guadeloupe,25,312,1960,5.61
+190,Estimates,Haiti,NA,332,1960,6.3
+191,Estimates,Jamaica,NA,388,1960,5.08
+192,Estimates,Martinique,NA,474,1960,5.71
+193,Estimates,Puerto Rico,NA,630,1960,4.82
+194,Estimates,Saint Lucia,NA,662,1960,6.938
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1960,7.33
+196,Estimates,Trinidad and Tobago,NA,780,1960,5.3
+197,Estimates,United States Virgin Islands,NA,850,1960,5.4926
+199,Estimates,Belize,NA,84,1960,6.55
+200,Estimates,Costa Rica,NA,188,1960,6.3916
+201,Estimates,El Salvador,NA,222,1960,6.5973
+202,Estimates,Guatemala,NA,320,1960,6.9947
+203,Estimates,Honduras,NA,340,1960,7.497
+204,Estimates,Mexico,NA,484,1960,6.78
+205,Estimates,Nicaragua,NA,558,1960,7.5001
+206,Estimates,Panama,NA,591,1960,5.8725
+208,Estimates,Argentina,NA,32,1960,3.1265
+209,Estimates,Bolivia (Plurinational State of),NA,68,1960,6.772
+210,Estimates,Brazil,NA,76,1960,6.05
+211,Estimates,Chile,NA,152,1960,5.1664
+212,Estimates,Colombia,NA,170,1960,6.76
+213,Estimates,Ecuador,NA,218,1960,6.75
+214,Estimates,French Guiana,NA,254,1960,4.92
+215,Estimates,Guyana,NA,328,1960,6.4545
+216,Estimates,Paraguay,NA,600,1960,6.5
+217,Estimates,Peru,NA,604,1960,6.95
+218,Estimates,Suriname,NA,740,1960,6.56
+219,Estimates,Uruguay,NA,858,1960,2.83
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1960,6.4585
+222,Estimates,Canada,NA,124,1960,3.882
+223,Estimates,United States of America,NA,840,1960,3.5821
+226,Estimates,Australia,28,36,1960,3.406
+227,Estimates,New Zealand,NA,554,1960,4.07
+229,Estimates,Fiji,NA,242,1960,6.792
+230,Estimates,New Caledonia,NA,540,1960,5.2231
+231,Estimates,Papua New Guinea,NA,598,1960,6.259
+232,Estimates,Solomon Islands,NA,90,1960,6.4
+233,Estimates,Vanuatu,NA,548,1960,7.35
+235,Estimates,Guam,NA,316,1960,5.828
+236,Estimates,Kiribati,NA,296,1960,6.6
+237,Estimates,Micronesia (Fed. States of),NA,583,1960,7
+239,Estimates,French Polynesia,NA,258,1960,5.861
+240,Estimates,Samoa,NA,882,1960,7.6297
+241,Estimates,Tonga,NA,776,1960,7.3
+15,Estimates,Burundi,NA,108,1965,7.071
+16,Estimates,Comoros,NA,174,1965,6.909
+17,Estimates,Djibouti,NA,262,1965,6.547
+18,Estimates,Eritrea,NA,232,1965,6.815
+19,Estimates,Ethiopia,NA,231,1965,6.8972
+20,Estimates,Kenya,NA,404,1965,8.065
+21,Estimates,Madagascar,NA,450,1965,7.3
+22,Estimates,Malawi,NA,454,1965,7.0037
+23,Estimates,Mauritius,1,480,1965,6.195
+24,Estimates,Mayotte,NA,175,1965,7.91
+25,Estimates,Mozambique,NA,508,1965,6.9
+26,Estimates,Réunion,NA,638,1965,6.5632
+27,Estimates,Rwanda,NA,646,1965,8.2
+28,Estimates,Seychelles,NA,690,1965,5.59
+29,Estimates,Somalia,NA,706,1965,7.25
+30,Estimates,South Sudan,NA,728,1965,6.75
+31,Estimates,Uganda,NA,800,1965,7.05
+32,Estimates,United Republic of Tanzania,2,834,1965,6.8
+33,Estimates,Zambia,NA,894,1965,7.25
+34,Estimates,Zimbabwe,NA,716,1965,7.3
+36,Estimates,Angola,NA,24,1965,7.6
+37,Estimates,Cameroon,NA,120,1965,5.805
+38,Estimates,Central African Republic,NA,140,1965,5.9
+39,Estimates,Chad,NA,148,1965,6.3
+40,Estimates,Congo,NA,178,1965,5.989
+41,Estimates,Democratic Republic of the Congo,NA,180,1965,6.04
+42,Estimates,Equatorial Guinea,NA,226,1965,5.6731
+43,Estimates,Gabon,NA,266,1965,4.587
+44,Estimates,Sao Tome and Principe,NA,678,1965,6.3
+46,Estimates,Algeria,NA,12,1965,7.648
+47,Estimates,Egypt,NA,818,1965,6.65
+48,Estimates,Libya,NA,434,1965,7.3
+49,Estimates,Morocco,NA,504,1965,7.1
+50,Estimates,Sudan,NA,729,1965,6.75
+51,Estimates,Tunisia,NA,788,1965,6.99
+52,Estimates,Western Sahara,NA,732,1965,6.534
+54,Estimates,Botswana,NA,72,1965,6.65
+55,Estimates,Lesotho,NA,426,1965,5.811
+56,Estimates,Namibia,NA,516,1965,6.2
+57,Estimates,South Africa,NA,710,1965,6
+58,Estimates,Swaziland,NA,748,1965,6.75
+60,Estimates,Benin,NA,204,1965,6.4228
+61,Estimates,Burkina Faso,NA,854,1965,6.35
+62,Estimates,Cabo Verde,NA,132,1965,6.9728
+63,Estimates,Côte d'Ivoire,NA,384,1965,7.7585
+64,Estimates,Gambia,NA,270,1965,5.6969
+65,Estimates,Ghana,NA,288,1965,6.8436
+66,Estimates,Guinea,NA,324,1965,6.1483
+67,Estimates,Guinea-Bissau,NA,624,1965,5.95
+68,Estimates,Liberia,NA,430,1965,6.4695
+69,Estimates,Mali,NA,466,1965,7
+70,Estimates,Mauritania,NA,478,1965,6.7863
+71,Estimates,Niger,NA,562,1965,7.5
+72,Estimates,Nigeria,NA,566,1965,6.3544
+73,Estimates,Senegal,NA,686,1965,7.1
+74,Estimates,Sierra Leone,NA,694,1965,6.25
+75,Estimates,Togo,NA,768,1965,6.6518
+78,Estimates,China,4,156,1965,6.2
+79,Estimates,"China, Hong Kong SAR",5,344,1965,5.05
+80,Estimates,"China, Macao SAR",6,446,1965,4.4077
+81,Estimates,"China, Taiwan Province of China",NA,158,1965,5.3458
+82,Estimates,Dem. People's Republic of Korea,NA,408,1965,3.8501
+83,Estimates,Japan,NA,392,1965,2.03
+84,Estimates,Mongolia,NA,496,1965,7.5
+85,Estimates,Republic of Korea,NA,410,1965,5.6
+88,Estimates,Kazakhstan,NA,398,1965,4.431
+89,Estimates,Kyrgyzstan,NA,417,1965,5.5534
+90,Estimates,Tajikistan,NA,762,1965,6.8
+91,Estimates,Turkmenistan,NA,795,1965,6.8
+92,Estimates,Uzbekistan,NA,860,1965,6.5
+94,Estimates,Afghanistan,NA,4,1965,7.45
+95,Estimates,Bangladesh,NA,50,1965,6.804
+96,Estimates,Bhutan,NA,64,1965,6.67
+97,Estimates,India,NA,356,1965,5.89
+98,Estimates,Iran (Islamic Republic of),NA,364,1965,6.9086
+99,Estimates,Maldives,NA,462,1965,7.1197
+100,Estimates,Nepal,NA,524,1965,5.9588
+101,Estimates,Pakistan,NA,586,1965,6.6
+102,Estimates,Sri Lanka,NA,144,1965,5.2
+104,Estimates,Brunei Darussalam,NA,96,1965,6.6631
+105,Estimates,Cambodia,NA,116,1965,6.947
+106,Estimates,Indonesia,NA,360,1965,5.62
+107,Estimates,Lao People's Democratic Republic,NA,418,1965,5.9673
+108,Estimates,Malaysia,8,458,1965,6.365
+109,Estimates,Myanmar,NA,104,1965,6.1
+110,Estimates,Philippines,NA,608,1965,6.9807
+111,Estimates,Singapore,NA,702,1965,5.12
+112,Estimates,Thailand,NA,764,1965,6.1297
+113,Estimates,Timor-Leste,NA,626,1965,6.371
+114,Estimates,Viet Nam,NA,704,1965,6.4182
+116,Estimates,Armenia,NA,51,1965,4.453
+117,Estimates,Azerbaijan,9,31,1965,6
+118,Estimates,Bahrain,NA,48,1965,7.17
+119,Estimates,Cyprus,10,196,1965,3.436
+120,Estimates,Georgia,11,268,1965,2.93
+121,Estimates,Iraq,NA,368,1965,6.598
+122,Estimates,Israel,NA,376,1965,3.8463
+123,Estimates,Jordan,NA,400,1965,7.995
+124,Estimates,Kuwait,NA,414,1965,7.3
+125,Estimates,Lebanon,NA,422,1965,5.689
+126,Estimates,Oman,NA,512,1965,7.252
+127,Estimates,Qatar,NA,634,1965,6.97
+128,Estimates,Saudi Arabia,NA,682,1965,7.257
+129,Estimates,State of Palestine,12,275,1965,7.995
+130,Estimates,Syrian Arab Republic,NA,760,1965,7.5385
+131,Estimates,Turkey,NA,792,1965,6.2022
+132,Estimates,United Arab Emirates,NA,784,1965,6.87
+133,Estimates,Yemen,NA,887,1965,7.6
+136,Estimates,Belarus,NA,112,1965,2.59
+137,Estimates,Bulgaria,NA,100,1965,2.2171
+138,Estimates,Czechia,NA,203,1965,2.2088
+139,Estimates,Hungary,NA,348,1965,1.81
+140,Estimates,Poland,NA,616,1965,2.72
+141,Estimates,Republic of Moldova,13,498,1965,3.15
+142,Estimates,Romania,NA,642,1965,2.1044
+143,Estimates,Russian Federation,NA,643,1965,2.55
+144,Estimates,Slovakia,NA,703,1965,2.911
+145,Estimates,Ukraine,14,804,1965,2.1346
+147,Estimates,Channel Islands,16,830,1965,2.562
+148,Estimates,Denmark,NA,208,1965,2.5823
+149,Estimates,Estonia,NA,233,1965,1.94
+150,Estimates,Finland,17,246,1965,2.66
+151,Estimates,Iceland,NA,352,1965,3.9383
+152,Estimates,Ireland,NA,372,1965,4.065
+153,Estimates,Latvia,NA,428,1965,1.8753
+154,Estimates,Lithuania,NA,440,1965,2.4272
+155,Estimates,Norway,18,578,1965,2.898
+156,Estimates,Sweden,NA,752,1965,2.3104
+157,Estimates,United Kingdom,NA,826,1965,2.81
+159,Estimates,Albania,NA,8,1965,6.23
+160,Estimates,Bosnia and Herzegovina,NA,70,1965,3.683
+161,Estimates,Croatia,NA,191,1965,2.218
+162,Estimates,Greece,NA,300,1965,2.2895
+163,Estimates,Italy,NA,380,1965,2.504
+164,Estimates,Malta,NA,470,1965,3.1495
+165,Estimates,Montenegro,NA,499,1965,3.4168
+166,Estimates,Portugal,NA,620,1965,3.1873
+167,Estimates,Serbia,20,688,1965,2.51
+168,Estimates,Slovenia,NA,705,1965,2.3354
+169,Estimates,Spain,21,724,1965,2.81
+170,Estimates,TFYR Macedonia,22,807,1965,3.6509
+172,Estimates,Austria,NA,40,1965,2.7777
+173,Estimates,Belgium,NA,56,1965,2.6466
+174,Estimates,France,NA,250,1965,2.8318
+175,Estimates,Germany,NA,276,1965,2.4736
+176,Estimates,Luxembourg,NA,442,1965,2.395
+177,Estimates,Netherlands,NA,528,1965,3.1657
+178,Estimates,Switzerland,NA,756,1965,2.5972
+181,Estimates,Antigua and Barbuda,NA,28,1965,4.3
+182,Estimates,Aruba,NA,533,1965,4.399
+183,Estimates,Bahamas,NA,44,1965,4.5
+184,Estimates,Barbados,NA,52,1965,4.2731
+185,Estimates,Cuba,NA,192,1965,4.6805
+186,Estimates,Curaçao,NA,531,1965,4.399
+187,Estimates,Dominican Republic,NA,214,1965,7.3505
+188,Estimates,Grenada,NA,308,1965,6.4
+189,Estimates,Guadeloupe,25,312,1965,5.61
+190,Estimates,Haiti,NA,332,1965,6.3
+191,Estimates,Jamaica,NA,388,1965,5.64
+192,Estimates,Martinique,NA,474,1965,5.45
+193,Estimates,Puerto Rico,NA,630,1965,4.37
+194,Estimates,Saint Lucia,NA,662,1965,6.794
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1965,7.02
+196,Estimates,Trinidad and Tobago,NA,780,1965,5.04
+197,Estimates,United States Virgin Islands,NA,850,1965,5.6723
+199,Estimates,Belize,NA,84,1965,6.45
+200,Estimates,Costa Rica,NA,188,1965,6.28
+201,Estimates,El Salvador,NA,222,1965,6.6665
+202,Estimates,Guatemala,NA,320,1965,6.8
+203,Estimates,Honduras,NA,340,1965,7.418
+204,Estimates,Mexico,NA,484,1965,6.75
+205,Estimates,Nicaragua,NA,558,1965,7.1
+206,Estimates,Panama,NA,591,1965,5.79
+208,Estimates,Argentina,NA,32,1965,3.0895
+209,Estimates,Bolivia (Plurinational State of),NA,68,1965,6.614
+210,Estimates,Brazil,NA,76,1965,6
+211,Estimates,Chile,NA,152,1965,4.9521
+212,Estimates,Colombia,NA,170,1965,6.76
+213,Estimates,Ecuador,NA,218,1965,6.65
+214,Estimates,French Guiana,NA,254,1965,5.02
+215,Estimates,Guyana,NA,328,1965,6.15
+216,Estimates,Paraguay,NA,600,1965,6.45
+217,Estimates,Peru,NA,604,1965,6.95
+218,Estimates,Suriname,NA,740,1965,6.56
+219,Estimates,Uruguay,NA,858,1965,2.9
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1965,6.657
+222,Estimates,Canada,NA,124,1965,3.675
+223,Estimates,United States of America,NA,840,1965,3.2336
+226,Estimates,Australia,28,36,1965,3.274
+227,Estimates,New Zealand,NA,554,1965,3.85
+229,Estimates,Fiji,NA,242,1965,5.953
+230,Estimates,New Caledonia,NA,540,1965,5.2231
+231,Estimates,Papua New Guinea,NA,598,1965,6.278
+232,Estimates,Solomon Islands,NA,90,1965,6.4
+233,Estimates,Vanuatu,NA,548,1965,7
+235,Estimates,Guam,NA,316,1965,6.03
+236,Estimates,Kiribati,NA,296,1965,6.7808
+237,Estimates,Micronesia (Fed. States of),NA,583,1965,6.9
+239,Estimates,French Polynesia,NA,258,1965,5.4381
+240,Estimates,Samoa,NA,882,1965,7.6291
+241,Estimates,Tonga,NA,776,1965,7.3
+15,Estimates,Burundi,NA,108,1970,7.268
+16,Estimates,Comoros,NA,174,1970,7.05
+17,Estimates,Djibouti,NA,262,1970,6.707
+18,Estimates,Eritrea,NA,232,1970,6.699
+19,Estimates,Ethiopia,NA,231,1970,6.8691
+20,Estimates,Kenya,NA,404,1970,8.11
+21,Estimates,Madagascar,NA,450,1970,7.3
+22,Estimates,Malawi,NA,454,1970,7.2038
+23,Estimates,Mauritius,1,480,1970,4.61
+24,Estimates,Mayotte,NA,175,1970,7.91
+25,Estimates,Mozambique,NA,508,1970,6.85
+26,Estimates,Réunion,NA,638,1970,5.6722
+27,Estimates,Rwanda,NA,646,1970,8.2
+28,Estimates,Seychelles,NA,690,1970,5.92
+29,Estimates,Somalia,NA,706,1970,7.25
+30,Estimates,South Sudan,NA,728,1970,6.85
+31,Estimates,Uganda,NA,800,1970,7.12
+32,Estimates,United Republic of Tanzania,2,834,1970,6.79
+33,Estimates,Zambia,NA,894,1970,7.3
+34,Estimates,Zimbabwe,NA,716,1970,7.4
+36,Estimates,Angola,NA,24,1970,7.6
+37,Estimates,Cameroon,NA,120,1970,6.085
+38,Estimates,Central African Republic,NA,140,1970,5.95
+39,Estimates,Chad,NA,148,1970,6.4
+40,Estimates,Congo,NA,178,1970,6.192
+41,Estimates,Democratic Republic of the Congo,NA,180,1970,6.15
+42,Estimates,Equatorial Guinea,NA,226,1970,5.7928
+43,Estimates,Gabon,NA,266,1970,4.933
+44,Estimates,Sao Tome and Principe,NA,678,1970,6.4
+46,Estimates,Algeria,NA,12,1970,7.648
+47,Estimates,Egypt,NA,818,1970,6.45
+48,Estimates,Libya,NA,434,1970,7.992
+49,Estimates,Morocco,NA,504,1970,6.85
+50,Estimates,Sudan,NA,729,1970,6.861
+51,Estimates,Tunisia,NA,788,1970,6.92
+52,Estimates,Western Sahara,NA,732,1970,6.6
+54,Estimates,Botswana,NA,72,1970,6.7
+55,Estimates,Lesotho,NA,426,1970,5.8
+56,Estimates,Namibia,NA,516,1970,6.3
+57,Estimates,South Africa,NA,710,1970,5.8
+58,Estimates,Swaziland,NA,748,1970,6.849
+60,Estimates,Benin,NA,204,1970,6.6491
+61,Estimates,Burkina Faso,NA,854,1970,6.5627
+62,Estimates,Cabo Verde,NA,132,1970,6.9654
+63,Estimates,Côte d'Ivoire,NA,384,1970,7.9037
+64,Estimates,Gambia,NA,270,1970,5.9633
+65,Estimates,Ghana,NA,288,1970,6.9514
+66,Estimates,Guinea,NA,324,1970,6.1788
+67,Estimates,Guinea-Bissau,NA,624,1970,6
+68,Estimates,Liberia,NA,430,1970,6.5923
+69,Estimates,Mali,NA,466,1970,7.1
+70,Estimates,Mauritania,NA,478,1970,6.7896
+71,Estimates,Niger,NA,562,1970,7.55
+72,Estimates,Nigeria,NA,566,1970,6.3544
+73,Estimates,Senegal,NA,686,1970,7.25
+74,Estimates,Sierra Leone,NA,694,1970,6.4135
+75,Estimates,Togo,NA,768,1970,6.937
+78,Estimates,China,4,156,1970,6.25
+79,Estimates,"China, Hong Kong SAR",5,344,1970,3.645
+80,Estimates,"China, Macao SAR",6,446,1970,2.7367
+81,Estimates,"China, Taiwan Province of China",NA,158,1970,4.3842
+82,Estimates,Dem. People's Republic of Korea,NA,408,1970,4.388
+83,Estimates,Japan,NA,392,1970,2.04
+84,Estimates,Mongolia,NA,496,1970,7.5
+85,Estimates,Republic of Korea,NA,410,1970,4.65
+88,Estimates,Kazakhstan,NA,398,1970,3.671
+89,Estimates,Kyrgyzstan,NA,417,1970,5.2072
+90,Estimates,Tajikistan,NA,762,1970,7
+91,Estimates,Turkmenistan,NA,795,1970,6.56
+92,Estimates,Uzbekistan,NA,860,1970,6.4
+94,Estimates,Afghanistan,NA,4,1970,7.45
+95,Estimates,Bangladesh,NA,50,1970,6.9206
+96,Estimates,Bhutan,NA,64,1970,6.67
+97,Estimates,India,NA,356,1970,5.7226
+98,Estimates,Iran (Islamic Republic of),NA,364,1970,6.6802
+99,Estimates,Maldives,NA,462,1970,7.2226
+100,Estimates,Nepal,NA,524,1970,5.9588
+101,Estimates,Pakistan,NA,586,1970,6.6
+102,Estimates,Sri Lanka,NA,144,1970,4.7
+104,Estimates,Brunei Darussalam,NA,96,1970,5.8985
+105,Estimates,Cambodia,NA,116,1970,6.7034
+106,Estimates,Indonesia,NA,360,1970,5.568
+107,Estimates,Lao People's Democratic Republic,NA,418,1970,5.9794
+108,Estimates,Malaysia,8,458,1970,5.3817
+109,Estimates,Myanmar,NA,104,1970,6.1
+110,Estimates,Philippines,NA,608,1970,6.5392
+111,Estimates,Singapore,NA,702,1970,3.645
+112,Estimates,Thailand,NA,764,1970,5.985
+113,Estimates,Timor-Leste,NA,626,1970,6.156
+114,Estimates,Viet Nam,NA,704,1970,6.4649
+116,Estimates,Armenia,NA,51,1970,3.447
+117,Estimates,Azerbaijan,9,31,1970,5.4
+118,Estimates,Bahrain,NA,48,1970,6.97
+119,Estimates,Cyprus,10,196,1970,2.795
+120,Estimates,Georgia,11,268,1970,2.8
+121,Estimates,Iraq,NA,368,1970,7.4
+122,Estimates,Israel,NA,376,1970,3.7834
+123,Estimates,Jordan,NA,400,1970,7.995
+124,Estimates,Kuwait,NA,414,1970,7.4
+125,Estimates,Lebanon,NA,422,1970,5.2312
+126,Estimates,Oman,NA,512,1970,7.3091
+127,Estimates,Qatar,NA,634,1970,6.97
+128,Estimates,Saudi Arabia,NA,682,1970,7.257
+129,Estimates,State of Palestine,12,275,1970,7.995
+130,Estimates,Syrian Arab Republic,NA,760,1970,7.5598
+131,Estimates,Turkey,NA,792,1970,5.7996
+132,Estimates,United Arab Emirates,NA,784,1970,6.77
+133,Estimates,Yemen,NA,887,1970,7.8
+136,Estimates,Belarus,NA,112,1970,2.28
+137,Estimates,Bulgaria,NA,100,1970,2.1304
+138,Estimates,Czechia,NA,203,1970,1.9573
+139,Estimates,Hungary,NA,348,1970,1.9776
+140,Estimates,Poland,NA,616,1970,2.3348
+141,Estimates,Republic of Moldova,13,498,1970,2.66
+142,Estimates,Romania,NA,642,1970,2.8678
+143,Estimates,Russian Federation,NA,643,1970,2.02
+144,Estimates,Slovakia,NA,703,1970,2.541
+145,Estimates,Ukraine,14,804,1970,2.0204
+147,Estimates,Channel Islands,16,830,1970,2.362
+148,Estimates,Denmark,NA,208,1970,2.2723
+149,Estimates,Estonia,NA,233,1970,2.02
+150,Estimates,Finland,17,246,1970,2.191
+151,Estimates,Iceland,NA,352,1970,3.2353
+152,Estimates,Ireland,NA,372,1970,3.765
+153,Estimates,Latvia,NA,428,1970,1.84
+154,Estimates,Lithuania,NA,440,1970,2.3028
+155,Estimates,Norway,18,578,1970,2.8
+156,Estimates,Sweden,NA,752,1970,2.1701
+157,Estimates,United Kingdom,NA,826,1970,2.57
+159,Estimates,Albania,NA,8,1970,5.259
+160,Estimates,Bosnia and Herzegovina,NA,70,1970,3.1372
+161,Estimates,Croatia,NA,191,1970,2.003
+162,Estimates,Greece,NA,300,1970,2.5528
+163,Estimates,Italy,NA,380,1970,2.4989
+164,Estimates,Malta,NA,470,1970,2.1161
+165,Estimates,Montenegro,NA,499,1970,2.89
+166,Estimates,Portugal,NA,620,1970,3.1187
+167,Estimates,Serbia,20,688,1970,2.43
+168,Estimates,Slovenia,NA,705,1970,2.265
+169,Estimates,Spain,21,724,1970,2.84
+170,Estimates,TFYR Macedonia,22,807,1970,3.4437
+172,Estimates,Austria,NA,40,1970,2.5689
+173,Estimates,Belgium,NA,56,1970,2.3881
+174,Estimates,France,NA,250,1970,2.6391
+175,Estimates,Germany,NA,276,1970,2.3605
+176,Estimates,Luxembourg,NA,442,1970,2.192
+177,Estimates,Netherlands,NA,528,1970,2.7949
+178,Estimates,Switzerland,NA,756,1970,2.3551
+181,Estimates,Antigua and Barbuda,NA,28,1970,4
+182,Estimates,Aruba,NA,533,1970,3.301
+183,Estimates,Bahamas,NA,44,1970,3.5756
+184,Estimates,Barbados,NA,52,1970,3.5328
+185,Estimates,Cuba,NA,192,1970,4.3
+186,Estimates,Curaçao,NA,531,1970,3.8
+187,Estimates,Dominican Republic,NA,214,1970,6.6495
+188,Estimates,Grenada,NA,308,1970,4.8
+189,Estimates,Guadeloupe,25,312,1970,5.22
+190,Estimates,Haiti,NA,332,1970,6
+191,Estimates,Jamaica,NA,388,1970,5.78
+192,Estimates,Martinique,NA,474,1970,5
+193,Estimates,Puerto Rico,NA,630,1970,3.41
+194,Estimates,Saint Lucia,NA,662,1970,6.479
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1970,6.41
+196,Estimates,Trinidad and Tobago,NA,780,1970,3.81
+197,Estimates,United States Virgin Islands,NA,850,1970,5.5225
+199,Estimates,Belize,NA,84,1970,6.35
+200,Estimates,Costa Rica,NA,188,1970,5.2603
+201,Estimates,El Salvador,NA,222,1970,6.3622
+202,Estimates,Guatemala,NA,320,1970,6.7
+203,Estimates,Honduras,NA,340,1970,7.421
+204,Estimates,Mexico,NA,484,1970,6.75
+205,Estimates,Nicaragua,NA,558,1970,6.9501
+206,Estimates,Panama,NA,591,1970,5.4142
+208,Estimates,Argentina,NA,32,1970,3.049
+209,Estimates,Bolivia (Plurinational State of),NA,68,1970,6.409
+210,Estimates,Brazil,NA,76,1970,5.37
+211,Estimates,Chile,NA,152,1970,4.442
+212,Estimates,Colombia,NA,170,1970,6.181
+213,Estimates,Ecuador,NA,218,1970,6.4
+214,Estimates,French Guiana,NA,254,1970,5
+215,Estimates,Guyana,NA,328,1970,5.6967
+216,Estimates,Paraguay,NA,600,1970,6.15
+217,Estimates,Peru,NA,604,1970,6.7
+218,Estimates,Suriname,NA,740,1970,5.945
+219,Estimates,Uruguay,NA,858,1970,2.8
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1970,5.9045
+222,Estimates,Canada,NA,124,1970,2.61
+223,Estimates,United States of America,NA,840,1970,2.5434
+226,Estimates,Australia,28,36,1970,2.871
+227,Estimates,New Zealand,NA,554,1970,3.348
+229,Estimates,Fiji,NA,242,1970,5
+230,Estimates,New Caledonia,NA,540,1970,5.212
+231,Estimates,Papua New Guinea,NA,598,1970,6.214
+232,Estimates,Solomon Islands,NA,90,1970,6.539
+233,Estimates,Vanuatu,NA,548,1970,6.46
+235,Estimates,Guam,NA,316,1970,4.724
+236,Estimates,Kiribati,NA,296,1970,6.0397
+237,Estimates,Micronesia (Fed. States of),NA,583,1970,6.9
+239,Estimates,French Polynesia,NA,258,1970,5.199
+240,Estimates,Samoa,NA,882,1970,7.3526
+241,Estimates,Tonga,NA,776,1970,6.5
+15,Estimates,Burundi,NA,108,1975,7.3
+16,Estimates,Comoros,NA,174,1975,7.05
+17,Estimates,Djibouti,NA,262,1975,6.845
+18,Estimates,Eritrea,NA,232,1975,6.62
+19,Estimates,Ethiopia,NA,231,1975,7.1038
+20,Estimates,Kenya,NA,404,1975,7.99
+21,Estimates,Madagascar,NA,450,1975,7.2
+22,Estimates,Malawi,NA,454,1975,7.4019
+23,Estimates,Mauritius,1,480,1975,3.466
+24,Estimates,Mayotte,NA,175,1975,7.91
+25,Estimates,Mozambique,NA,508,1975,6.8
+26,Estimates,Réunion,NA,638,1975,3.875
+27,Estimates,Rwanda,NA,646,1975,8.284
+28,Estimates,Seychelles,NA,690,1975,5.3819
+29,Estimates,Somalia,NA,706,1975,7.1
+30,Estimates,South Sudan,NA,728,1975,6.9
+31,Estimates,Uganda,NA,800,1975,7.1
+32,Estimates,United Republic of Tanzania,2,834,1975,6.75
+33,Estimates,Zambia,NA,894,1975,7.4
+34,Estimates,Zimbabwe,NA,716,1975,7.4
+36,Estimates,Angola,NA,24,1975,7.6
+37,Estimates,Cameroon,NA,120,1975,6.307
+38,Estimates,Central African Republic,NA,140,1975,5.95
+39,Estimates,Chad,NA,148,1975,6.671
+40,Estimates,Congo,NA,178,1975,6.35
+41,Estimates,Democratic Republic of the Congo,NA,180,1975,6.289
+42,Estimates,Equatorial Guinea,NA,226,1975,5.8037
+43,Estimates,Gabon,NA,266,1975,5.228
+44,Estimates,Sao Tome and Principe,NA,678,1975,6.5155
+46,Estimates,Algeria,NA,12,1975,7.572
+47,Estimates,Egypt,NA,818,1975,6
+48,Estimates,Libya,NA,434,1975,8.1
+49,Estimates,Morocco,NA,504,1975,6.4
+50,Estimates,Sudan,NA,729,1975,6.9
+51,Estimates,Tunisia,NA,788,1975,6.385
+52,Estimates,Western Sahara,NA,732,1975,6.5732
+54,Estimates,Botswana,NA,72,1975,6.55
+55,Estimates,Lesotho,NA,426,1975,5.8
+56,Estimates,Namibia,NA,516,1975,6.6
+57,Estimates,South Africa,NA,710,1975,5.5
+58,Estimates,Swaziland,NA,748,1975,6.866
+60,Estimates,Benin,NA,204,1975,6.8349
+61,Estimates,Burkina Faso,NA,854,1975,6.7
+62,Estimates,Cabo Verde,NA,132,1975,6.8639
+63,Estimates,Côte d'Ivoire,NA,384,1975,7.9261
+64,Estimates,Gambia,NA,270,1975,6.2023
+65,Estimates,Ghana,NA,288,1975,6.8975
+66,Estimates,Guinea,NA,324,1975,6.2912
+67,Estimates,Guinea-Bissau,NA,624,1975,6.1
+68,Estimates,Liberia,NA,430,1975,6.7989
+69,Estimates,Mali,NA,466,1975,7.15
+70,Estimates,Mauritania,NA,478,1975,6.7498
+71,Estimates,Niger,NA,562,1975,7.6
+72,Estimates,Nigeria,NA,566,1975,6.6094
+73,Estimates,Senegal,NA,686,1975,7.3
+74,Estimates,Sierra Leone,NA,694,1975,6.565
+75,Estimates,Togo,NA,768,1975,7.1986
+78,Estimates,China,4,156,1975,4.77
+79,Estimates,"China, Hong Kong SAR",5,344,1975,3.01
+80,Estimates,"China, Macao SAR",6,446,1975,1.793
+81,Estimates,"China, Taiwan Province of China",NA,158,1975,3.3308
+82,Estimates,Dem. People's Republic of Korea,NA,408,1975,4.001
+83,Estimates,Japan,NA,392,1975,2.134
+84,Estimates,Mongolia,NA,496,1975,7.5
+85,Estimates,Republic of Korea,NA,410,1975,4.002
+88,Estimates,Kazakhstan,NA,398,1975,3.607
+89,Estimates,Kyrgyzstan,NA,417,1975,5.1166
+90,Estimates,Tajikistan,NA,762,1975,6.834
+91,Estimates,Turkmenistan,NA,795,1975,6.187
+92,Estimates,Uzbekistan,NA,860,1975,6.1561
+94,Estimates,Afghanistan,NA,4,1975,7.45
+95,Estimates,Bangladesh,NA,50,1975,6.9098
+96,Estimates,Bhutan,NA,64,1975,6.67
+97,Estimates,India,NA,356,1975,5.4104
+98,Estimates,Iran (Islamic Republic of),NA,364,1975,6.2407
+99,Estimates,Maldives,NA,462,1975,7.1698
+100,Estimates,Nepal,NA,524,1975,5.8662
+101,Estimates,Pakistan,NA,586,1975,6.6
+102,Estimates,Sri Lanka,NA,144,1975,4
+104,Estimates,Brunei Darussalam,NA,96,1975,5.4949
+105,Estimates,Cambodia,NA,116,1975,6.16
+106,Estimates,Indonesia,NA,360,1975,5.3
+107,Estimates,Lao People's Democratic Republic,NA,418,1975,5.9915
+108,Estimates,Malaysia,8,458,1975,4.715
+109,Estimates,Myanmar,NA,104,1975,5.738
+110,Estimates,Philippines,NA,608,1975,5.9769
+111,Estimates,Singapore,NA,702,1975,2.815
+112,Estimates,Thailand,NA,764,1975,5.052
+113,Estimates,Timor-Leste,NA,626,1975,5.535
+114,Estimates,Viet Nam,NA,704,1975,6.3285
+116,Estimates,Armenia,NA,51,1975,3.037
+117,Estimates,Azerbaijan,9,31,1975,4.6
+118,Estimates,Bahrain,NA,48,1975,5.95
+119,Estimates,Cyprus,10,196,1975,2.49
+120,Estimates,Georgia,11,268,1975,2.601
+121,Estimates,Iraq,NA,368,1975,7.15
+122,Estimates,Israel,NA,376,1975,3.8069
+123,Estimates,Jordan,NA,400,1975,7.79
+124,Estimates,Kuwait,NA,414,1975,6.75
+125,Estimates,Lebanon,NA,422,1975,4.6654
+126,Estimates,Oman,NA,512,1975,7.4077
+127,Estimates,Qatar,NA,634,1975,6.75
+128,Estimates,Saudi Arabia,NA,682,1975,7.298
+129,Estimates,State of Palestine,12,275,1975,7.694
+130,Estimates,Syrian Arab Republic,NA,760,1975,7.5426
+131,Estimates,Turkey,NA,792,1975,5.3931
+132,Estimates,United Arab Emirates,NA,784,1975,6.45
+133,Estimates,Yemen,NA,887,1975,7.9
+136,Estimates,Belarus,NA,112,1975,2.25
+137,Estimates,Bulgaria,NA,100,1975,2.1573
+138,Estimates,Czechia,NA,203,1975,2.2108
+139,Estimates,Hungary,NA,348,1975,2.0416
+140,Estimates,Poland,NA,616,1975,2.2349
+141,Estimates,Republic of Moldova,13,498,1975,2.56
+142,Estimates,Romania,NA,642,1975,2.6541
+143,Estimates,Russian Federation,NA,643,1975,2.03
+144,Estimates,Slovakia,NA,703,1975,2.5067
+145,Estimates,Ukraine,14,804,1975,2.0789
+147,Estimates,Channel Islands,16,830,1975,1.858
+148,Estimates,Denmark,NA,208,1975,1.9639
+149,Estimates,Estonia,NA,233,1975,2.15
+150,Estimates,Finland,17,246,1975,1.623
+151,Estimates,Iceland,NA,352,1975,2.8679
+152,Estimates,Ireland,NA,372,1975,3.815
+153,Estimates,Latvia,NA,428,1975,2
+154,Estimates,Lithuania,NA,440,1975,2.303
+155,Estimates,Norway,18,578,1975,2.35
+156,Estimates,Sweden,NA,752,1975,1.9059
+157,Estimates,United Kingdom,NA,826,1975,2.01
+159,Estimates,Albania,NA,8,1975,4.6001
+160,Estimates,Bosnia and Herzegovina,NA,70,1975,2.7332
+161,Estimates,Croatia,NA,191,1975,1.976
+162,Estimates,Greece,NA,300,1975,2.5288
+163,Estimates,Italy,NA,380,1975,2.3227
+164,Estimates,Malta,NA,470,1975,2.0058
+165,Estimates,Montenegro,NA,499,1975,2.6179
+166,Estimates,Portugal,NA,620,1975,2.8332
+167,Estimates,Serbia,20,688,1975,2.36
+168,Estimates,Slovenia,NA,705,1975,2.1999
+169,Estimates,Spain,21,724,1975,2.85
+170,Estimates,TFYR Macedonia,22,807,1975,2.8593
+172,Estimates,Austria,NA,40,1975,2.0369
+173,Estimates,Belgium,NA,56,1975,2.0143
+174,Estimates,France,NA,250,1975,2.3004
+175,Estimates,Germany,NA,276,1975,1.7084
+176,Estimates,Luxembourg,NA,442,1975,1.722
+177,Estimates,Netherlands,NA,528,1975,2.1001
+178,Estimates,Switzerland,NA,756,1975,1.8714
+181,Estimates,Antigua and Barbuda,NA,28,1975,3.2617
+182,Estimates,Aruba,NA,533,1975,2.651
+183,Estimates,Bahamas,NA,44,1975,3.5367
+184,Estimates,Barbados,NA,52,1975,2.7176
+185,Estimates,Cuba,NA,192,1975,3.6
+186,Estimates,Curaçao,NA,531,1975,2.87
+187,Estimates,Dominican Republic,NA,214,1975,5.6795
+188,Estimates,Grenada,NA,308,1975,4.6
+189,Estimates,Guadeloupe,25,312,1975,4.49
+190,Estimates,Haiti,NA,332,1975,5.6005
+191,Estimates,Jamaica,NA,388,1975,5
+192,Estimates,Martinique,NA,474,1975,4.08
+193,Estimates,Puerto Rico,NA,630,1975,2.99
+194,Estimates,Saint Lucia,NA,662,1975,5.691
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1975,5.54
+196,Estimates,Trinidad and Tobago,NA,780,1975,3.45
+197,Estimates,United States Virgin Islands,NA,850,1975,4.6577
+199,Estimates,Belize,NA,84,1975,6.25
+200,Estimates,Costa Rica,NA,188,1975,4.0588
+201,Estimates,El Salvador,NA,222,1975,5.9472
+202,Estimates,Guatemala,NA,320,1975,6.58
+203,Estimates,Honduras,NA,340,1975,7.05
+204,Estimates,Mexico,NA,484,1975,6.71
+205,Estimates,Nicaragua,NA,558,1975,6.79
+206,Estimates,Panama,NA,591,1975,4.8822
+208,Estimates,Argentina,NA,32,1975,3.1455
+209,Estimates,Bolivia (Plurinational State of),NA,68,1975,6.15
+210,Estimates,Brazil,NA,76,1975,4.68
+211,Estimates,Chile,NA,152,1975,3.5774
+212,Estimates,Colombia,NA,170,1975,4.9005
+213,Estimates,Ecuador,NA,218,1975,5.8001
+214,Estimates,French Guiana,NA,254,1975,4.18
+215,Estimates,Guyana,NA,328,1975,4.9912
+216,Estimates,Paraguay,NA,600,1975,5.3505
+217,Estimates,Peru,NA,604,1975,6
+218,Estimates,Suriname,NA,740,1975,5.289
+219,Estimates,Uruguay,NA,858,1975,3
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1975,4.941
+222,Estimates,Canada,NA,124,1975,1.976
+223,Estimates,United States of America,NA,840,1975,2.0294
+226,Estimates,Australia,28,36,1975,2.535
+227,Estimates,New Zealand,NA,554,1975,2.843
+229,Estimates,Fiji,NA,242,1975,4.2
+230,Estimates,New Caledonia,NA,540,1975,5.2028
+231,Estimates,Papua New Guinea,NA,598,1975,6.087
+232,Estimates,Solomon Islands,NA,90,1975,7.236
+233,Estimates,Vanuatu,NA,548,1975,6.11
+235,Estimates,Guam,NA,316,1975,4.12
+236,Estimates,Kiribati,NA,296,1975,4.9973
+237,Estimates,Micronesia (Fed. States of),NA,583,1975,6.9
+239,Estimates,French Polynesia,NA,258,1975,4.8575
+240,Estimates,Samoa,NA,882,1975,6.9977
+241,Estimates,Tonga,NA,776,1975,5.5
+15,Estimates,Burundi,NA,108,1980,7.436
+16,Estimates,Comoros,NA,174,1980,7.05
+17,Estimates,Djibouti,NA,262,1980,6.644
+18,Estimates,Eritrea,NA,232,1980,6.62
+19,Estimates,Ethiopia,NA,231,1980,7.1838
+20,Estimates,Kenya,NA,404,1980,7.64
+21,Estimates,Madagascar,NA,450,1980,6.95
+22,Estimates,Malawi,NA,454,1980,7.6
+23,Estimates,Mauritius,1,480,1980,3.105
+24,Estimates,Mayotte,NA,175,1980,7.91
+25,Estimates,Mozambique,NA,508,1980,6.55
+26,Estimates,Réunion,NA,638,1980,3.12
+27,Estimates,Rwanda,NA,646,1980,8.432
+28,Estimates,Seychelles,NA,690,1980,4.2696
+29,Estimates,Somalia,NA,706,1980,7
+30,Estimates,South Sudan,NA,728,1980,6.92
+31,Estimates,Uganda,NA,800,1980,7.1
+32,Estimates,United Republic of Tanzania,2,834,1980,6.73
+33,Estimates,Zambia,NA,894,1980,7.25
+34,Estimates,Zimbabwe,NA,716,1980,7.3
+36,Estimates,Angola,NA,24,1980,7.6
+37,Estimates,Cameroon,NA,120,1980,6.5
+38,Estimates,Central African Republic,NA,140,1980,5.95
+39,Estimates,Chad,NA,148,1980,6.874
+40,Estimates,Congo,NA,178,1980,6.35
+41,Estimates,Democratic Republic of the Congo,NA,180,1980,6.462
+42,Estimates,Equatorial Guinea,NA,226,1980,5.7921
+43,Estimates,Gabon,NA,266,1980,5.572
+44,Estimates,Sao Tome and Principe,NA,678,1980,6.495
+46,Estimates,Algeria,NA,12,1980,7.175
+47,Estimates,Egypt,NA,818,1980,5.7
+48,Estimates,Libya,NA,434,1980,7.668
+49,Estimates,Morocco,NA,504,1980,5.9
+50,Estimates,Sudan,NA,729,1980,6.92
+51,Estimates,Tunisia,NA,788,1980,5.65
+52,Estimates,Western Sahara,NA,732,1980,6.234
+54,Estimates,Botswana,NA,72,1980,6.35
+55,Estimates,Lesotho,NA,426,1980,5.686
+56,Estimates,Namibia,NA,516,1980,6.6
+57,Estimates,South Africa,NA,710,1980,5.05
+58,Estimates,Swaziland,NA,748,1980,6.733
+60,Estimates,Benin,NA,204,1980,6.9952
+61,Estimates,Burkina Faso,NA,854,1980,7.0182
+62,Estimates,Cabo Verde,NA,132,1980,6.615
+63,Estimates,Côte d'Ivoire,NA,384,1980,7.8123
+64,Estimates,Gambia,NA,270,1980,6.3384
+65,Estimates,Ghana,NA,288,1980,6.6878
+66,Estimates,Guinea,NA,324,1980,6.4513
+67,Estimates,Guinea-Bissau,NA,624,1980,6.25
+68,Estimates,Liberia,NA,430,1980,6.9317
+69,Estimates,Mali,NA,466,1980,7.15
+70,Estimates,Mauritania,NA,478,1980,6.5726
+71,Estimates,Niger,NA,562,1980,7.75
+72,Estimates,Nigeria,NA,566,1980,6.7629
+73,Estimates,Senegal,NA,686,1980,7.275
+74,Estimates,Sierra Leone,NA,694,1980,6.6458
+75,Estimates,Togo,NA,768,1980,7.2768
+78,Estimates,China,4,156,1980,3
+79,Estimates,"China, Hong Kong SAR",5,344,1980,2.23
+80,Estimates,"China, Macao SAR",6,446,1980,1.4079
+81,Estimates,"China, Taiwan Province of China",NA,158,1980,2.7417
+82,Estimates,Dem. People's Republic of Korea,NA,408,1980,2.85
+83,Estimates,Japan,NA,392,1980,1.831
+84,Estimates,Mongolia,NA,496,1980,6.65
+85,Estimates,Republic of Korea,NA,410,1980,2.919
+88,Estimates,Kazakhstan,NA,398,1980,3.2334
+89,Estimates,Kyrgyzstan,NA,417,1980,4.5921
+90,Estimates,Tajikistan,NA,762,1980,5.897
+91,Estimates,Turkmenistan,NA,795,1980,5.6
+92,Estimates,Uzbekistan,NA,860,1980,5.4649
+94,Estimates,Afghanistan,NA,4,1980,7.45
+95,Estimates,Bangladesh,NA,50,1980,6.6301
+96,Estimates,Bhutan,NA,64,1980,6.67
+97,Estimates,India,NA,356,1980,4.9744
+98,Estimates,Iran (Islamic Republic of),NA,364,1980,6.2799
+99,Estimates,Maldives,NA,462,1980,6.8547
+100,Estimates,Nepal,NA,524,1980,5.7952
+101,Estimates,Pakistan,NA,586,1980,6.6
+102,Estimates,Sri Lanka,NA,144,1980,3.6064
+104,Estimates,Brunei Darussalam,NA,96,1980,4.4501
+105,Estimates,Cambodia,NA,116,1980,5.421
+106,Estimates,Indonesia,NA,360,1980,4.73
+107,Estimates,Lao People's Democratic Republic,NA,418,1980,6.1535
+108,Estimates,Malaysia,8,458,1980,4.2024
+109,Estimates,Myanmar,NA,104,1980,5.15
+110,Estimates,Philippines,NA,608,1980,5.4623
+111,Estimates,Singapore,NA,702,1980,1.84
+112,Estimates,Thailand,NA,764,1980,3.915
+113,Estimates,Timor-Leste,NA,626,1980,4.305
+114,Estimates,Viet Nam,NA,704,1980,5.4993
+116,Estimates,Armenia,NA,51,1980,2.6
+117,Estimates,Azerbaijan,9,31,1980,3.8
+118,Estimates,Bahrain,NA,48,1980,5.23
+119,Estimates,Cyprus,10,196,1980,2.287
+120,Estimates,Georgia,11,268,1980,2.39
+121,Estimates,Iraq,NA,368,1980,6.8
+122,Estimates,Israel,NA,376,1980,3.4654
+123,Estimates,Jordan,NA,400,1980,7.38
+124,Estimates,Kuwait,NA,414,1980,5.6
+125,Estimates,Lebanon,NA,422,1980,4.2337
+126,Estimates,Oman,NA,512,1980,8.1
+127,Estimates,Qatar,NA,634,1980,6.1
+128,Estimates,Saudi Arabia,NA,682,1980,7.278
+129,Estimates,State of Palestine,12,275,1980,7.504
+130,Estimates,Syrian Arab Republic,NA,760,1980,7.3164
+131,Estimates,Turkey,NA,792,1980,4.6948
+132,Estimates,United Arab Emirates,NA,784,1980,5.75
+133,Estimates,Yemen,NA,887,1980,8.6
+136,Estimates,Belarus,NA,112,1980,2.09
+137,Estimates,Bulgaria,NA,100,1980,2.1927
+138,Estimates,Czechia,NA,203,1980,2.3588
+139,Estimates,Hungary,NA,348,1980,2.25
+140,Estimates,Poland,NA,616,1980,2.2285
+141,Estimates,Republic of Moldova,13,498,1980,2.44
+142,Estimates,Romania,NA,642,1980,2.5457
+143,Estimates,Russian Federation,NA,643,1980,1.94
+144,Estimates,Slovakia,NA,703,1980,2.464
+145,Estimates,Ukraine,14,804,1980,1.9798
+147,Estimates,Channel Islands,16,830,1980,1.523
+148,Estimates,Denmark,NA,208,1980,1.6816
+149,Estimates,Estonia,NA,233,1980,2.06
+150,Estimates,Finland,17,246,1980,1.663
+151,Estimates,Iceland,NA,352,1980,2.4472
+152,Estimates,Ireland,NA,372,1980,3.245
+153,Estimates,Latvia,NA,428,1980,1.8894
+154,Estimates,Lithuania,NA,440,1980,2.1042
+155,Estimates,Norway,18,578,1980,1.81
+156,Estimates,Sweden,NA,752,1980,1.6646
+157,Estimates,United Kingdom,NA,826,1980,1.73
+159,Estimates,Albania,NA,8,1980,3.9
+160,Estimates,Bosnia and Herzegovina,NA,70,1980,2.27
+161,Estimates,Croatia,NA,191,1980,1.8986
+162,Estimates,Greece,NA,300,1980,2.42
+163,Estimates,Italy,NA,380,1980,1.8856
+164,Estimates,Malta,NA,470,1980,2.1176
+165,Estimates,Montenegro,NA,499,1980,2.306
+166,Estimates,Portugal,NA,620,1980,2.5486
+167,Estimates,Serbia,20,688,1980,2.37
+168,Estimates,Slovenia,NA,705,1980,2.1632
+169,Estimates,Spain,21,724,1980,2.55
+170,Estimates,TFYR Macedonia,22,807,1980,2.5402
+172,Estimates,Austria,NA,40,1980,1.6513
+173,Estimates,Belgium,NA,56,1980,1.7049
+174,Estimates,France,NA,250,1980,1.87
+175,Estimates,Germany,NA,276,1980,1.508
+176,Estimates,Luxembourg,NA,442,1980,1.486
+177,Estimates,Netherlands,NA,528,1980,1.5982
+178,Estimates,Switzerland,NA,756,1980,1.5388
+181,Estimates,Antigua and Barbuda,NA,28,1980,2.2357
+182,Estimates,Aruba,NA,533,1980,2.45
+183,Estimates,Bahamas,NA,44,1980,2.9547
+184,Estimates,Barbados,NA,52,1980,2.1568
+185,Estimates,Cuba,NA,192,1980,2.15
+186,Estimates,Curaçao,NA,531,1980,2.45
+187,Estimates,Dominican Republic,NA,214,1980,4.76
+188,Estimates,Grenada,NA,308,1980,4.3
+189,Estimates,Guadeloupe,25,312,1980,3.52
+190,Estimates,Haiti,NA,332,1980,5.8
+191,Estimates,Jamaica,NA,388,1980,4
+192,Estimates,Martinique,NA,474,1980,2.65
+193,Estimates,Puerto Rico,NA,630,1980,2.76
+194,Estimates,Saint Lucia,NA,662,1980,5.2
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1980,4.42
+196,Estimates,Trinidad and Tobago,NA,780,1980,3.24
+197,Estimates,United States Virgin Islands,NA,850,1980,3.4884
+199,Estimates,Belize,NA,84,1980,6.2
+200,Estimates,Costa Rica,NA,188,1980,3.704
+201,Estimates,El Salvador,NA,222,1980,5.4428
+202,Estimates,Guatemala,NA,320,1980,6.46
+203,Estimates,Honduras,NA,340,1980,6.6
+204,Estimates,Mexico,NA,484,1980,5.4
+205,Estimates,Nicaragua,NA,558,1980,6.35
+206,Estimates,Panama,NA,591,1980,4.1869
+208,Estimates,Argentina,NA,32,1980,3.44
+209,Estimates,Bolivia (Plurinational State of),NA,68,1980,5.89
+210,Estimates,Brazil,NA,76,1980,4.28
+211,Estimates,Chile,NA,152,1980,2.9461
+212,Estimates,Colombia,NA,170,1980,4.2532
+213,Estimates,Ecuador,NA,218,1980,5.05
+214,Estimates,French Guiana,NA,254,1980,3.3
+215,Estimates,Guyana,NA,328,1980,4.0569
+216,Estimates,Paraguay,NA,600,1980,5.2
+217,Estimates,Peru,NA,604,1980,5.4
+218,Estimates,Suriname,NA,740,1980,4.203
+219,Estimates,Uruguay,NA,858,1980,2.89
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1980,4.4685
+222,Estimates,Canada,NA,124,1980,1.734
+223,Estimates,United States of America,NA,840,1980,1.7718
+226,Estimates,Australia,28,36,1980,1.989
+227,Estimates,New Zealand,NA,554,1980,2.178
+229,Estimates,Fiji,NA,242,1980,4
+230,Estimates,New Caledonia,NA,540,1980,3.9055
+231,Estimates,Papua New Guinea,NA,598,1980,5.871
+232,Estimates,Solomon Islands,NA,90,1980,7.041
+233,Estimates,Vanuatu,NA,548,1980,5.75
+235,Estimates,Guam,NA,316,1980,3.516
+236,Estimates,Kiribati,NA,296,1980,5.1
+237,Estimates,Micronesia (Fed. States of),NA,583,1980,6.4
+239,Estimates,French Polynesia,NA,258,1980,4.229
+240,Estimates,Samoa,NA,882,1980,6.4889
+241,Estimates,Tonga,NA,776,1980,5.5
+15,Estimates,Burundi,NA,108,1985,7.4
+16,Estimates,Comoros,NA,174,1985,7.05
+17,Estimates,Djibouti,NA,262,1985,6.45
+18,Estimates,Eritrea,NA,232,1985,6.7
+19,Estimates,Ethiopia,NA,231,1985,7.4247
+20,Estimates,Kenya,NA,404,1985,7.216
+21,Estimates,Madagascar,NA,450,1985,6.5
+22,Estimates,Malawi,NA,454,1985,7.6
+23,Estimates,Mauritius,1,480,1985,2.3015
+24,Estimates,Mayotte,NA,175,1985,7.3504
+25,Estimates,Mozambique,NA,508,1985,6.4
+26,Estimates,Réunion,NA,638,1985,2.7765
+27,Estimates,Rwanda,NA,646,1985,8.375
+28,Estimates,Seychelles,NA,690,1985,3.5077
+29,Estimates,Somalia,NA,706,1985,7.071
+30,Estimates,South Sudan,NA,728,1985,6.783
+31,Estimates,Uganda,NA,800,1985,7.1
+32,Estimates,United Republic of Tanzania,2,834,1985,6.55
+33,Estimates,Zambia,NA,894,1985,6.9
+34,Estimates,Zimbabwe,NA,716,1985,6.74
+36,Estimates,Angola,NA,24,1985,7.4
+37,Estimates,Cameroon,NA,120,1985,6.702
+38,Estimates,Central African Republic,NA,140,1985,5.95
+39,Estimates,Chad,NA,148,1985,7.037
+40,Estimates,Congo,NA,178,1985,6
+41,Estimates,Democratic Republic of the Congo,NA,180,1985,6.5975
+42,Estimates,Equatorial Guinea,NA,226,1985,5.8925
+43,Estimates,Gabon,NA,266,1985,5.721
+44,Estimates,Sao Tome and Principe,NA,678,1985,6.2372
+46,Estimates,Algeria,NA,12,1985,6.315
+47,Estimates,Egypt,NA,818,1985,5.49
+48,Estimates,Libya,NA,434,1985,6.6806
+49,Estimates,Morocco,NA,504,1985,5.4
+50,Estimates,Sudan,NA,729,1985,6.63
+51,Estimates,Tunisia,NA,788,1985,4.82
+52,Estimates,Western Sahara,NA,732,1985,5.3321
+54,Estimates,Botswana,NA,72,1985,5.95
+55,Estimates,Lesotho,NA,426,1985,5.459
+56,Estimates,Namibia,NA,516,1985,6.2
+57,Estimates,South Africa,NA,710,1985,4.6
+58,Estimates,Swaziland,NA,748,1985,6.5
+60,Estimates,Benin,NA,204,1985,7.0087
+61,Estimates,Burkina Faso,NA,854,1985,7.1722
+62,Estimates,Cabo Verde,NA,132,1985,6.1
+63,Estimates,Côte d'Ivoire,NA,384,1985,7.3125
+64,Estimates,Gambia,NA,270,1985,6.2918
+65,Estimates,Ghana,NA,288,1985,6.3494
+66,Estimates,Guinea,NA,324,1985,6.589
+67,Estimates,Guinea-Bissau,NA,624,1985,6.6982
+68,Estimates,Liberia,NA,430,1985,6.9555
+69,Estimates,Mali,NA,466,1985,7.15
+70,Estimates,Mauritania,NA,478,1985,6.3386
+71,Estimates,Niger,NA,562,1985,7.9
+72,Estimates,Nigeria,NA,566,1985,6.7559
+73,Estimates,Senegal,NA,686,1985,7.275
+74,Estimates,Sierra Leone,NA,694,1985,6.7219
+75,Estimates,Togo,NA,768,1985,7.0567
+78,Estimates,China,4,156,1985,2.55
+79,Estimates,"China, Hong Kong SAR",5,344,1985,1.715
+80,Estimates,"China, Macao SAR",6,446,1985,2.06
+81,Estimates,"China, Taiwan Province of China",NA,158,1985,2.2325
+82,Estimates,Dem. People's Republic of Korea,NA,408,1985,2.801
+83,Estimates,Japan,NA,392,1985,1.762
+84,Estimates,Mongolia,NA,496,1985,5.75
+85,Estimates,Republic of Korea,NA,410,1985,2.234
+88,Estimates,Kazakhstan,NA,398,1985,3.0442
+89,Estimates,Kyrgyzstan,NA,417,1985,4.1969
+90,Estimates,Tajikistan,NA,762,1985,5.6
+91,Estimates,Turkmenistan,NA,795,1985,4.79
+92,Estimates,Uzbekistan,NA,860,1985,4.8
+94,Estimates,Afghanistan,NA,4,1985,7.45
+95,Estimates,Bangladesh,NA,50,1985,5.9773
+96,Estimates,Bhutan,NA,64,1985,6.3885
+97,Estimates,India,NA,356,1985,4.6816
+98,Estimates,Iran (Islamic Republic of),NA,364,1985,6.5339
+99,Estimates,Maldives,NA,462,1985,7.2575
+100,Estimates,Nepal,NA,524,1985,5.6202
+101,Estimates,Pakistan,NA,586,1985,6.444
+102,Estimates,Sri Lanka,NA,144,1985,3.1894
+104,Estimates,Brunei Darussalam,NA,96,1985,3.7903
+105,Estimates,Cambodia,NA,116,1985,6.37
+106,Estimates,Indonesia,NA,360,1985,4.109
+107,Estimates,Lao People's Democratic Republic,NA,418,1985,6.3601
+108,Estimates,Malaysia,8,458,1985,3.9682
+109,Estimates,Myanmar,NA,104,1985,4.65
+110,Estimates,Philippines,NA,608,1985,4.9215
+111,Estimates,Singapore,NA,702,1985,1.694
+112,Estimates,Thailand,NA,764,1985,2.945
+113,Estimates,Timor-Leste,NA,626,1985,5.39
+114,Estimates,Viet Nam,NA,704,1985,4.6002
+116,Estimates,Armenia,NA,51,1985,2.5
+117,Estimates,Azerbaijan,9,31,1985,3.3
+118,Estimates,Bahrain,NA,48,1985,4.63
+119,Estimates,Cyprus,10,196,1985,2.449
+120,Estimates,Georgia,11,268,1985,2.269
+121,Estimates,Iraq,NA,368,1985,6.35
+122,Estimates,Israel,NA,376,1985,3.1341
+123,Estimates,Jordan,NA,400,1985,7.0485
+124,Estimates,Kuwait,NA,414,1985,5
+125,Estimates,Lebanon,NA,422,1985,3.7477
+126,Estimates,Oman,NA,512,1985,8.3166
+127,Estimates,Qatar,NA,634,1985,5.45
+128,Estimates,Saudi Arabia,NA,682,1985,7.015
+129,Estimates,State of Palestine,12,275,1985,7.0491
+130,Estimates,Syrian Arab Republic,NA,760,1985,6.767
+131,Estimates,Turkey,NA,792,1985,4.1106
+132,Estimates,United Arab Emirates,NA,784,1985,5.3
+133,Estimates,Yemen,NA,887,1985,8.8
+136,Estimates,Belarus,NA,112,1985,2.088
+137,Estimates,Bulgaria,NA,100,1985,2.0149
+138,Estimates,Czechia,NA,203,1985,1.966
+139,Estimates,Hungary,NA,348,1985,1.8075
+140,Estimates,Poland,NA,616,1985,2.3135
+141,Estimates,Republic of Moldova,13,498,1985,2.55
+142,Estimates,Romania,NA,642,1985,2.2599
+143,Estimates,Russian Federation,NA,643,1985,2.04
+144,Estimates,Slovakia,NA,703,1985,2.271
+145,Estimates,Ukraine,14,804,1985,2.004
+147,Estimates,Channel Islands,16,830,1985,1.439
+148,Estimates,Denmark,NA,208,1985,1.4273
+149,Estimates,Estonia,NA,233,1985,2.09
+150,Estimates,Finland,17,246,1985,1.685
+151,Estimates,Iceland,NA,352,1985,2.2251
+152,Estimates,Ireland,NA,372,1985,2.755
+153,Estimates,Latvia,NA,428,1985,2.0293
+154,Estimates,Lithuania,NA,440,1985,2.0385
+155,Estimates,Norway,18,578,1985,1.687
+156,Estimates,Sweden,NA,752,1985,1.6435
+157,Estimates,United Kingdom,NA,826,1985,1.775
+159,Estimates,Albania,NA,8,1985,3.409
+160,Estimates,Bosnia and Herzegovina,NA,70,1985,2.02
+161,Estimates,Croatia,NA,191,1985,1.866
+162,Estimates,Greece,NA,300,1985,2.06
+163,Estimates,Italy,NA,380,1985,1.5245
+164,Estimates,Malta,NA,470,1985,1.944
+165,Estimates,Montenegro,NA,499,1985,2.212
+166,Estimates,Portugal,NA,620,1985,2.0084
+167,Estimates,Serbia,20,688,1985,2.32
+168,Estimates,Slovenia,NA,705,1985,1.928
+169,Estimates,Spain,21,724,1985,1.88
+170,Estimates,TFYR Macedonia,22,807,1985,2.454
+172,Estimates,Austria,NA,40,1985,1.5957
+173,Estimates,Belgium,NA,56,1985,1.5959
+174,Estimates,France,NA,250,1985,1.8653
+175,Estimates,Germany,NA,276,1985,1.4637
+176,Estimates,Luxembourg,NA,442,1985,1.465
+177,Estimates,Netherlands,NA,528,1985,1.5149
+178,Estimates,Switzerland,NA,756,1985,1.539
+181,Estimates,Antigua and Barbuda,NA,28,1985,2.1392
+182,Estimates,Aruba,NA,533,1985,2.358
+183,Estimates,Bahamas,NA,44,1985,3.0503
+184,Estimates,Barbados,NA,52,1985,1.9181
+185,Estimates,Cuba,NA,192,1985,1.8495
+186,Estimates,Curaçao,NA,531,1985,2.25
+187,Estimates,Dominican Republic,NA,214,1985,4.15
+188,Estimates,Grenada,NA,308,1985,4.23
+189,Estimates,Guadeloupe,25,312,1985,2.55
+190,Estimates,Haiti,NA,332,1985,6.2099
+191,Estimates,Jamaica,NA,388,1985,3.55
+192,Estimates,Martinique,NA,474,1985,2.14
+193,Estimates,Puerto Rico,NA,630,1985,2.46
+194,Estimates,Saint Lucia,NA,662,1985,4.2
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1985,3.64
+196,Estimates,Trinidad and Tobago,NA,780,1985,3.28
+197,Estimates,United States Virgin Islands,NA,850,1985,2.9711
+199,Estimates,Belize,NA,84,1985,5.4
+200,Estimates,Costa Rica,NA,188,1985,3.5009
+201,Estimates,El Salvador,NA,222,1985,4.7457
+202,Estimates,Guatemala,NA,320,1985,6.1561
+203,Estimates,Honduras,NA,340,1985,5.9995
+204,Estimates,Mexico,NA,484,1985,4.37
+205,Estimates,Nicaragua,NA,558,1985,5.85
+206,Estimates,Panama,NA,591,1985,3.6272
+208,Estimates,Argentina,NA,32,1985,3.15
+209,Estimates,Bolivia (Plurinational State of),NA,68,1985,5.514
+210,Estimates,Brazil,NA,76,1985,3.82
+211,Estimates,Chile,NA,152,1985,2.6992
+212,Estimates,Colombia,NA,170,1985,3.7
+213,Estimates,Ecuador,NA,218,1985,4.45
+214,Estimates,French Guiana,NA,254,1985,3.58
+215,Estimates,Guyana,NA,328,1985,3.6425
+216,Estimates,Paraguay,NA,600,1985,5.12
+217,Estimates,Peru,NA,604,1985,4.65
+218,Estimates,Suriname,NA,740,1985,3.7
+219,Estimates,Uruguay,NA,858,1985,2.57
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1985,3.957
+222,Estimates,Canada,NA,124,1985,1.634
+223,Estimates,United States of America,NA,840,1985,1.8044
+226,Estimates,Australia,28,36,1985,1.91
+227,Estimates,New Zealand,NA,554,1985,1.9727
+229,Estimates,Fiji,NA,242,1985,3.8
+230,Estimates,New Caledonia,NA,540,1985,3.3399
+231,Estimates,Papua New Guinea,NA,598,1985,5.474
+232,Estimates,Solomon Islands,NA,90,1985,6.431
+233,Estimates,Vanuatu,NA,548,1985,5.4
+235,Estimates,Guam,NA,316,1985,3.08
+236,Estimates,Kiribati,NA,296,1985,5
+237,Estimates,Micronesia (Fed. States of),NA,583,1985,6
+239,Estimates,French Polynesia,NA,258,1985,3.815
+240,Estimates,Samoa,NA,882,1985,5.9103
+241,Estimates,Tonga,NA,776,1985,5.5
+15,Estimates,Burundi,NA,108,1990,7.55
+16,Estimates,Comoros,NA,174,1990,6.7
+17,Estimates,Djibouti,NA,262,1990,6.181
+18,Estimates,Eritrea,NA,232,1990,6.51
+19,Estimates,Ethiopia,NA,231,1990,7.3673
+20,Estimates,Kenya,NA,404,1990,6.538
+21,Estimates,Madagascar,NA,450,1990,6.25
+22,Estimates,Malawi,NA,454,1990,7.25
+23,Estimates,Mauritius,1,480,1990,2.3118
+24,Estimates,Mayotte,NA,175,1990,6.727
+25,Estimates,Mozambique,NA,508,1990,6.3
+26,Estimates,Réunion,NA,638,1990,2.713
+27,Estimates,Rwanda,NA,646,1990,7.8
+28,Estimates,Seychelles,NA,690,1990,2.9377
+29,Estimates,Somalia,NA,706,1990,7.258
+30,Estimates,South Sudan,NA,728,1990,6.83
+31,Estimates,Uganda,NA,800,1990,7.1
+32,Estimates,United Republic of Tanzania,2,834,1990,6.36
+33,Estimates,Zambia,NA,894,1990,6.6
+34,Estimates,Zimbabwe,NA,716,1990,5.656
+36,Estimates,Angola,NA,24,1990,7.35
+37,Estimates,Cameroon,NA,120,1990,6.598
+38,Estimates,Central African Republic,NA,140,1990,5.9
+39,Estimates,Chad,NA,148,1990,7.212
+40,Estimates,Congo,NA,178,1990,5.547
+41,Estimates,Democratic Republic of the Congo,NA,180,1990,6.7069
+42,Estimates,Equatorial Guinea,NA,226,1990,5.9823
+43,Estimates,Gabon,NA,266,1990,5.577
+44,Estimates,Sao Tome and Principe,NA,678,1990,5.9594
+46,Estimates,Algeria,NA,12,1990,5.302
+47,Estimates,Egypt,NA,818,1990,5.15
+48,Estimates,Libya,NA,434,1990,5.712
+49,Estimates,Morocco,NA,504,1990,4.447
+50,Estimates,Sudan,NA,729,1990,6.3
+51,Estimates,Tunisia,NA,788,1990,4.0019
+52,Estimates,Western Sahara,NA,732,1990,4.6
+54,Estimates,Botswana,NA,72,1990,4.9
+55,Estimates,Lesotho,NA,426,1990,5.135
+56,Estimates,Namibia,NA,516,1990,5.547
+57,Estimates,South Africa,NA,710,1990,4
+58,Estimates,Swaziland,NA,748,1990,6
+60,Estimates,Benin,NA,204,1990,6.8818
+61,Estimates,Burkina Faso,NA,854,1990,7.0658
+62,Estimates,Cabo Verde,NA,132,1990,5.6344
+63,Estimates,Côte d'Ivoire,NA,384,1990,6.85
+64,Estimates,Gambia,NA,270,1990,6.1417
+65,Estimates,Ghana,NA,288,1990,5.8817
+66,Estimates,Guinea,NA,324,1990,6.6321
+67,Estimates,Guinea-Bissau,NA,624,1990,6.6834
+68,Estimates,Liberia,NA,430,1990,6.7229
+69,Estimates,Mali,NA,466,1990,7.15
+70,Estimates,Mauritania,NA,478,1990,6.1491
+71,Estimates,Niger,NA,562,1990,7.8
+72,Estimates,Nigeria,NA,566,1990,6.6035
+73,Estimates,Senegal,NA,686,1990,6.775
+74,Estimates,Sierra Leone,NA,694,1990,6.7219
+75,Estimates,Togo,NA,768,1990,6.6222
+78,Estimates,China,4,156,1990,2.725
+79,Estimates,"China, Hong Kong SAR",5,344,1990,1.3562
+80,Estimates,"China, Macao SAR",6,446,1990,2
+81,Estimates,"China, Taiwan Province of China",NA,158,1990,1.7675
+82,Estimates,Dem. People's Republic of Korea,NA,408,1990,2.358
+83,Estimates,Japan,NA,392,1990,1.65
+84,Estimates,Mongolia,NA,496,1990,4.8407
+85,Estimates,Republic of Korea,NA,410,1990,1.567
+88,Estimates,Kazakhstan,NA,398,1990,3.033
+89,Estimates,Kyrgyzstan,NA,417,1990,4.0584
+90,Estimates,Tajikistan,NA,762,1990,5.5
+91,Estimates,Turkmenistan,NA,795,1990,4.55
+92,Estimates,Uzbekistan,NA,860,1990,4.4001
+94,Estimates,Afghanistan,NA,4,1990,7.4689
+95,Estimates,Bangladesh,NA,50,1990,4.9834
+96,Estimates,Bhutan,NA,64,1990,6.1064
+97,Estimates,India,NA,356,1990,4.2656
+98,Estimates,Iran (Islamic Republic of),NA,364,1990,5.62
+99,Estimates,Maldives,NA,462,1990,6.6645
+100,Estimates,Nepal,NA,524,1990,5.3293
+101,Estimates,Pakistan,NA,586,1990,6.2967
+102,Estimates,Sri Lanka,NA,144,1990,2.644
+104,Estimates,Brunei Darussalam,NA,96,1990,3.4679
+105,Estimates,Cambodia,NA,116,1990,5.9896
+106,Estimates,Indonesia,NA,360,1990,3.4
+107,Estimates,Lao People's Democratic Republic,NA,418,1990,6.2668
+108,Estimates,Malaysia,8,458,1990,3.6666
+109,Estimates,Myanmar,NA,104,1990,3.8
+110,Estimates,Philippines,NA,608,1990,4.5271
+111,Estimates,Singapore,NA,702,1990,1.6974
+112,Estimates,Thailand,NA,764,1990,2.3
+113,Estimates,Timor-Leste,NA,626,1990,5.209
+114,Estimates,Viet Nam,NA,704,1990,3.8497
+116,Estimates,Armenia,NA,51,1990,2.6
+117,Estimates,Azerbaijan,9,31,1990,3.2
+118,Estimates,Bahrain,NA,48,1990,4.08
+119,Estimates,Cyprus,10,196,1990,2.428
+120,Estimates,Georgia,11,268,1990,2.263
+121,Estimates,Iraq,NA,368,1990,6.0895
+122,Estimates,Israel,NA,376,1990,3.0701
+123,Estimates,Jordan,NA,400,1990,6.0232
+124,Estimates,Kuwait,NA,414,1990,3.65
+125,Estimates,Lebanon,NA,422,1990,3.2258
+126,Estimates,Oman,NA,512,1990,7.8479
+127,Estimates,Qatar,NA,634,1990,4.4
+128,Estimates,Saudi Arabia,NA,682,1990,6.217
+129,Estimates,State of Palestine,12,275,1990,6.7573
+130,Estimates,Syrian Arab Republic,NA,760,1990,5.873
+131,Estimates,Turkey,NA,792,1990,3.3874
+132,Estimates,United Arab Emirates,NA,784,1990,4.9
+133,Estimates,Yemen,NA,887,1990,8.8
+136,Estimates,Belarus,NA,112,1990,2.0754
+137,Estimates,Bulgaria,NA,100,1990,1.9458
+138,Estimates,Czechia,NA,203,1990,1.9008
+139,Estimates,Hungary,NA,348,1990,1.8222
+140,Estimates,Poland,NA,616,1990,2.1624
+141,Estimates,Republic of Moldova,13,498,1990,2.64
+142,Estimates,Romania,NA,642,1990,2.2244
+143,Estimates,Russian Federation,NA,643,1990,2.121
+144,Estimates,Slovakia,NA,703,1990,2.1537
+145,Estimates,Ukraine,14,804,1990,1.95
+147,Estimates,Channel Islands,16,830,1990,1.45
+148,Estimates,Denmark,NA,208,1990,1.5426
+149,Estimates,Estonia,NA,233,1990,2.199
+150,Estimates,Finland,17,246,1990,1.66
+151,Estimates,Iceland,NA,352,1990,2.1196
+152,Estimates,Ireland,NA,372,1990,2.18
+153,Estimates,Latvia,NA,428,1990,2.16
+154,Estimates,Lithuania,NA,440,1990,2.0554
+155,Estimates,Norway,18,578,1990,1.8
+156,Estimates,Sweden,NA,752,1990,1.9087
+157,Estimates,United Kingdom,NA,826,1990,1.835
+159,Estimates,Albania,NA,8,1990,3.15
+160,Estimates,Bosnia and Herzegovina,NA,70,1990,1.861
+161,Estimates,Croatia,NA,191,1990,1.72
+162,Estimates,Greece,NA,300,1990,1.58
+163,Estimates,Italy,NA,380,1990,1.3497
+164,Estimates,Malta,NA,470,1990,2.0292
+165,Estimates,Montenegro,NA,499,1990,2.106
+166,Estimates,Portugal,NA,620,1990,1.6205
+167,Estimates,Serbia,20,688,1990,2.23
+168,Estimates,Slovenia,NA,705,1990,1.6517
+169,Estimates,Spain,21,724,1990,1.46
+170,Estimates,TFYR Macedonia,22,807,1990,2.2729
+172,Estimates,Austria,NA,40,1990,1.448
+173,Estimates,Belgium,NA,56,1990,1.56
+174,Estimates,France,NA,250,1990,1.805
+175,Estimates,Germany,NA,276,1990,1.4295
+176,Estimates,Luxembourg,NA,442,1990,1.469
+177,Estimates,Netherlands,NA,528,1990,1.5546
+178,Estimates,Switzerland,NA,756,1990,1.547
+181,Estimates,Antigua and Barbuda,NA,28,1990,2.0708
+182,Estimates,Aruba,NA,533,1990,2.3
+183,Estimates,Bahamas,NA,44,1990,2.6498
+184,Estimates,Barbados,NA,52,1990,1.7744
+185,Estimates,Cuba,NA,192,1990,1.8495
+186,Estimates,Curaçao,NA,531,1990,2.3
+187,Estimates,Dominican Republic,NA,214,1990,3.6495
+188,Estimates,Grenada,NA,308,1990,4.14
+189,Estimates,Guadeloupe,25,312,1990,2.45
+190,Estimates,Haiti,NA,332,1990,5.6998
+191,Estimates,Jamaica,NA,388,1990,3.1
+192,Estimates,Martinique,NA,474,1990,2.14
+193,Estimates,Puerto Rico,NA,630,1990,2.26
+194,Estimates,Saint Lucia,NA,662,1990,3.65
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1990,3.1
+196,Estimates,Trinidad and Tobago,NA,780,1990,2.75
+197,Estimates,United States Virgin Islands,NA,850,1990,3.0216
+199,Estimates,Belize,NA,84,1990,4.7
+200,Estimates,Costa Rica,NA,188,1990,3.3066
+201,Estimates,El Salvador,NA,222,1990,4.1669
+202,Estimates,Guatemala,NA,320,1990,5.5769
+203,Estimates,Honduras,NA,340,1990,5.37
+204,Estimates,Mexico,NA,484,1990,3.75
+205,Estimates,Nicaragua,NA,558,1990,5
+206,Estimates,Panama,NA,591,1990,3.2383
+208,Estimates,Argentina,NA,32,1990,3.053
+209,Estimates,Bolivia (Plurinational State of),NA,68,1990,5.085
+210,Estimates,Brazil,NA,76,1990,3.16
+211,Estimates,Chile,NA,152,1990,2.6424
+212,Estimates,Colombia,NA,170,1990,3.1752
+213,Estimates,Ecuador,NA,218,1990,4
+214,Estimates,French Guiana,NA,254,1990,3.73
+215,Estimates,Guyana,NA,328,1990,3.1262
+216,Estimates,Paraguay,NA,600,1990,4.77
+217,Estimates,Peru,NA,604,1990,4.1
+218,Estimates,Suriname,NA,740,1990,3.364
+219,Estimates,Uruguay,NA,858,1990,2.53
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1990,3.6485
+222,Estimates,Canada,NA,124,1990,1.616
+223,Estimates,United States of America,NA,840,1990,1.9146
+226,Estimates,Australia,28,36,1990,1.859
+227,Estimates,New Zealand,NA,554,1990,2.0311
+229,Estimates,Fiji,NA,242,1990,3.47
+230,Estimates,New Caledonia,NA,540,1990,3.025
+231,Estimates,Papua New Guinea,NA,598,1990,4.966
+232,Estimates,Solomon Islands,NA,90,1990,6.125
+233,Estimates,Vanuatu,NA,548,1990,5.04
+235,Estimates,Guam,NA,316,1990,3.139
+236,Estimates,Kiribati,NA,296,1990,4.8
+237,Estimates,Micronesia (Fed. States of),NA,583,1990,5.2
+239,Estimates,French Polynesia,NA,258,1990,3.6447
+240,Estimates,Samoa,NA,882,1990,5.3533
+241,Estimates,Tonga,NA,776,1990,4.7363
+15,Estimates,Burundi,NA,108,1995,7.4
+16,Estimates,Comoros,NA,174,1995,6.1
+17,Estimates,Djibouti,NA,262,1995,5.85
+18,Estimates,Eritrea,NA,232,1995,6.2
+19,Estimates,Ethiopia,NA,231,1995,7.0888
+20,Estimates,Kenya,NA,404,1995,5.65
+21,Estimates,Madagascar,NA,450,1995,6.1
+22,Estimates,Malawi,NA,454,1995,6.6
+23,Estimates,Mauritius,1,480,1995,2.2465
+24,Estimates,Mayotte,NA,175,1995,5.25
+25,Estimates,Mozambique,NA,508,1995,6.1
+26,Estimates,Réunion,NA,638,1995,2.405
+27,Estimates,Rwanda,NA,646,1995,6.554
+28,Estimates,Seychelles,NA,690,1995,2.5734
+29,Estimates,Somalia,NA,706,1995,7.531
+30,Estimates,South Sudan,NA,728,1995,6.65
+31,Estimates,Uganda,NA,800,1995,7.063
+32,Estimates,United Republic of Tanzania,2,834,1995,6.05
+33,Estimates,Zambia,NA,894,1995,6.3
+34,Estimates,Zimbabwe,NA,716,1995,4.773
+36,Estimates,Angola,NA,24,1995,7.1
+37,Estimates,Cameroon,NA,120,1995,6.217
+38,Estimates,Central African Republic,NA,140,1995,5.7
+39,Estimates,Chad,NA,148,1995,7.388
+40,Estimates,Congo,NA,178,1995,5.207
+41,Estimates,Democratic Republic of the Congo,NA,180,1995,6.7689
+42,Estimates,Equatorial Guinea,NA,226,1995,5.9703
+43,Estimates,Gabon,NA,266,1995,5.217
+44,Estimates,Sao Tome and Principe,NA,678,1995,5.6823
+46,Estimates,Algeria,NA,12,1995,4.12
+47,Estimates,Egypt,NA,818,1995,4.12
+48,Estimates,Libya,NA,434,1995,4.215
+49,Estimates,Morocco,NA,504,1995,3.701
+50,Estimates,Sudan,NA,729,1995,6
+51,Estimates,Tunisia,NA,788,1995,2.98
+52,Estimates,Western Sahara,NA,732,1995,4
+54,Estimates,Botswana,NA,72,1995,4.25
+55,Estimates,Lesotho,NA,426,1995,4.701
+56,Estimates,Namibia,NA,516,1995,4.912
+57,Estimates,South Africa,NA,710,1995,3.34
+58,Estimates,Swaziland,NA,748,1995,5.2
+60,Estimates,Benin,NA,204,1995,6.5629
+61,Estimates,Burkina Faso,NA,854,1995,6.932
+62,Estimates,Cabo Verde,NA,132,1995,4.9303
+63,Estimates,Côte d'Ivoire,NA,384,1995,6.41
+64,Estimates,Gambia,NA,270,1995,6.0808
+65,Estimates,Ghana,NA,288,1995,5.3426
+66,Estimates,Guinea,NA,324,1995,6.5137
+67,Estimates,Guinea-Bissau,NA,624,1995,6.5
+68,Estimates,Liberia,NA,430,1995,6.274
+69,Estimates,Mali,NA,466,1995,7.15
+70,Estimates,Mauritania,NA,478,1995,5.9134
+71,Estimates,Niger,NA,562,1995,7.75
+72,Estimates,Nigeria,NA,566,1995,6.3697
+73,Estimates,Senegal,NA,686,1995,6.275
+74,Estimates,Sierra Leone,NA,694,1995,6.6858
+75,Estimates,Togo,NA,768,1995,6.0195
+78,Estimates,China,4,156,1995,1.895
+79,Estimates,"China, Hong Kong SAR",5,344,1995,1.26
+80,Estimates,"China, Macao SAR",6,446,1995,1.405
+81,Estimates,"China, Taiwan Province of China",NA,158,1995,1.7583
+82,Estimates,Dem. People's Republic of Korea,NA,408,1995,2.25
+83,Estimates,Japan,NA,392,1995,1.476
+84,Estimates,Mongolia,NA,496,1995,3.2726
+85,Estimates,Republic of Korea,NA,410,1995,1.6764
+88,Estimates,Kazakhstan,NA,398,1995,2.55
+89,Estimates,Kyrgyzstan,NA,417,1995,3.6377
+90,Estimates,Tajikistan,NA,762,1995,4.877
+91,Estimates,Turkmenistan,NA,795,1995,4.03
+92,Estimates,Uzbekistan,NA,860,1995,3.95
+94,Estimates,Afghanistan,NA,4,1995,7.482
+95,Estimates,Bangladesh,NA,50,1995,4.0603
+96,Estimates,Bhutan,NA,64,1995,5.0703
+97,Estimates,India,NA,356,1995,3.833
+98,Estimates,Iran (Islamic Republic of),NA,364,1995,3.95
+99,Estimates,Maldives,NA,462,1995,5.1593
+100,Estimates,Nepal,NA,524,1995,4.9701
+101,Estimates,Pakistan,NA,586,1995,5.6691
+102,Estimates,Sri Lanka,NA,144,1995,2.3839
+104,Estimates,Brunei Darussalam,NA,96,1995,3.0786
+105,Estimates,Cambodia,NA,116,1995,5.1276
+106,Estimates,Indonesia,NA,360,1995,2.9
+107,Estimates,Lao People's Democratic Republic,NA,418,1995,5.8833
+108,Estimates,Malaysia,8,458,1995,3.4362
+109,Estimates,Myanmar,NA,104,1995,3.2
+110,Estimates,Philippines,NA,608,1995,4.1385
+111,Estimates,Singapore,NA,702,1995,1.7307
+112,Estimates,Thailand,NA,764,1995,1.9921
+113,Estimates,Timor-Leste,NA,626,1995,5.685
+114,Estimates,Viet Nam,NA,704,1995,3.2272
+116,Estimates,Armenia,NA,51,1995,2.38
+117,Estimates,Azerbaijan,9,31,1995,2.9
+118,Estimates,Bahrain,NA,48,1995,3.4
+119,Estimates,Cyprus,10,196,1995,2.3293
+120,Estimates,Georgia,11,268,1995,2.05
+121,Estimates,Iraq,NA,368,1995,5.6457
+122,Estimates,Israel,NA,376,1995,2.9333
+123,Estimates,Jordan,NA,400,1995,5
+124,Estimates,Kuwait,NA,414,1995,2.55
+125,Estimates,Lebanon,NA,422,1995,2.8012
+126,Estimates,Oman,NA,512,1995,6.2743
+127,Estimates,Qatar,NA,634,1995,3.74
+128,Estimates,Saudi Arabia,NA,682,1995,5.55
+129,Estimates,State of Palestine,12,275,1995,6.6031
+130,Estimates,Syrian Arab Republic,NA,760,1995,4.8041
+131,Estimates,Turkey,NA,792,1995,2.8982
+132,Estimates,United Arab Emirates,NA,784,1995,3.925
+133,Estimates,Yemen,NA,887,1995,8.2
+136,Estimates,Belarus,NA,112,1995,1.6769
+137,Estimates,Bulgaria,NA,100,1995,1.5527
+138,Estimates,Czechia,NA,203,1995,1.6455
+139,Estimates,Hungary,NA,348,1995,1.7402
+140,Estimates,Poland,NA,616,1995,1.9479
+141,Estimates,Republic of Moldova,13,498,1995,2.111
+142,Estimates,Romania,NA,642,1995,1.5063
+143,Estimates,Russian Federation,NA,643,1995,1.545
+144,Estimates,Slovakia,NA,703,1995,1.8667
+145,Estimates,Ukraine,14,804,1995,1.6208
+147,Estimates,Channel Islands,16,830,1995,1.461
+148,Estimates,Denmark,NA,208,1995,1.748
+149,Estimates,Estonia,NA,233,1995,1.627
+150,Estimates,Finland,17,246,1995,1.819
+151,Estimates,Iceland,NA,352,1995,2.1908
+152,Estimates,Ireland,NA,372,1995,1.905
+153,Estimates,Latvia,NA,428,1995,1.6322
+154,Estimates,Lithuania,NA,440,1995,1.816
+155,Estimates,Norway,18,578,1995,1.886
+156,Estimates,Sweden,NA,752,1995,2.006
+157,Estimates,United Kingdom,NA,826,1995,1.775
+159,Estimates,Albania,NA,8,1995,2.786
+160,Estimates,Bosnia and Herzegovina,NA,70,1995,1.703
+161,Estimates,Croatia,NA,191,1995,1.523
+162,Estimates,Greece,NA,300,1995,1.42
+163,Estimates,Italy,NA,380,1995,1.2715
+164,Estimates,Malta,NA,470,1995,1.9927
+165,Estimates,Montenegro,NA,499,1995,2.045
+166,Estimates,Portugal,NA,620,1995,1.48
+167,Estimates,Serbia,20,688,1995,1.96
+168,Estimates,Slovenia,NA,705,1995,1.3335
+169,Estimates,Spain,21,724,1995,1.28
+170,Estimates,TFYR Macedonia,22,807,1995,2.1215
+172,Estimates,Austria,NA,40,1995,1.4837
+173,Estimates,Belgium,NA,56,1995,1.6119
+174,Estimates,France,NA,250,1995,1.7149
+175,Estimates,Germany,NA,276,1995,1.3007
+176,Estimates,Luxembourg,NA,442,1995,1.663
+177,Estimates,Netherlands,NA,528,1995,1.5923
+178,Estimates,Switzerland,NA,756,1995,1.539
+181,Estimates,Antigua and Barbuda,NA,28,1995,2.0938
+182,Estimates,Aruba,NA,533,1995,2.1739
+183,Estimates,Bahamas,NA,44,1995,2.6376
+184,Estimates,Barbados,NA,52,1995,1.73
+185,Estimates,Cuba,NA,192,1995,1.6506
+186,Estimates,Curaçao,NA,531,1995,2.28
+187,Estimates,Dominican Republic,NA,214,1995,3.3095
+188,Estimates,Grenada,NA,308,1995,3.46
+189,Estimates,Guadeloupe,25,312,1995,2.097
+190,Estimates,Haiti,NA,332,1995,5.1499
+191,Estimates,Jamaica,NA,388,1995,2.84
+192,Estimates,Martinique,NA,474,1995,1.962
+193,Estimates,Puerto Rico,NA,630,1995,2.18
+194,Estimates,Saint Lucia,NA,662,1995,3.15
+195,Estimates,Saint Vincent and the Grenadines,NA,670,1995,2.85
+196,Estimates,Trinidad and Tobago,NA,780,1995,2.18
+197,Estimates,United States Virgin Islands,NA,850,1995,2.7945
+199,Estimates,Belize,NA,84,1995,4.347
+200,Estimates,Costa Rica,NA,188,1995,3.0069
+201,Estimates,El Salvador,NA,222,1995,3.7818
+202,Estimates,Guatemala,NA,320,1995,5.3107
+203,Estimates,Honduras,NA,340,1995,4.916
+204,Estimates,Mexico,NA,484,1995,3.23
+205,Estimates,Nicaragua,NA,558,1995,4.2
+206,Estimates,Panama,NA,591,1995,2.92
+208,Estimates,Argentina,NA,32,1995,2.9
+209,Estimates,Bolivia (Plurinational State of),NA,68,1995,4.7039
+210,Estimates,Brazil,NA,76,1995,2.72
+211,Estimates,Chile,NA,152,1995,2.4271
+212,Estimates,Colombia,NA,170,1995,2.842
+213,Estimates,Ecuador,NA,218,1995,3.55
+214,Estimates,French Guiana,NA,254,1995,4.05
+215,Estimates,Guyana,NA,328,1995,3.0847
+216,Estimates,Paraguay,NA,600,1995,4.3095
+217,Estimates,Peru,NA,604,1995,3.57
+218,Estimates,Suriname,NA,740,1995,3.1891
+219,Estimates,Uruguay,NA,858,1995,2.49
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,1995,3.25
+222,Estimates,Canada,NA,124,1995,1.694
+223,Estimates,United States of America,NA,840,1995,2.0297
+226,Estimates,Australia,28,36,1995,1.8628
+227,Estimates,New Zealand,NA,554,1995,2.067
+229,Estimates,Fiji,NA,242,1995,3.35
+230,Estimates,New Caledonia,NA,540,1995,2.9366
+231,Estimates,Papua New Guinea,NA,598,1995,4.703
+232,Estimates,Solomon Islands,NA,90,1995,5.532
+233,Estimates,Vanuatu,NA,548,1995,4.83
+235,Estimates,Guam,NA,316,1995,2.88
+236,Estimates,Kiribati,NA,296,1995,4.553
+237,Estimates,Micronesia (Fed. States of),NA,583,1995,4.7932
+239,Estimates,French Polynesia,NA,258,1995,3.1095
+240,Estimates,Samoa,NA,882,1995,4.9223
+241,Estimates,Tonga,NA,776,1995,4.615
+15,Estimates,Burundi,NA,108,2000,7.15
+16,Estimates,Comoros,NA,174,2000,5.6
+17,Estimates,Djibouti,NA,262,2000,4.812
+18,Estimates,Eritrea,NA,232,2000,5.6
+19,Estimates,Ethiopia,NA,231,2000,6.8335
+20,Estimates,Kenya,NA,404,2000,5.35
+21,Estimates,Madagascar,NA,450,2000,5.801
+22,Estimates,Malawi,NA,454,2000,6.3
+23,Estimates,Mauritius,1,480,2000,2.0332
+24,Estimates,Mayotte,NA,175,2000,5.08
+25,Estimates,Mozambique,NA,508,2000,5.85
+26,Estimates,Réunion,NA,638,2000,2.3279
+27,Estimates,Rwanda,NA,646,2000,5.9
+28,Estimates,Seychelles,NA,690,2000,2.178
+29,Estimates,Somalia,NA,706,2000,7.698
+30,Estimates,South Sudan,NA,728,2000,6.42
+31,Estimates,Uganda,NA,800,2000,6.946
+32,Estimates,United Republic of Tanzania,2,834,2000,5.75
+33,Estimates,Zambia,NA,894,2000,6.1
+34,Estimates,Zimbabwe,NA,716,2000,4.2
+36,Estimates,Angola,NA,24,2000,6.75
+37,Estimates,Cameroon,NA,120,2000,5.75
+38,Estimates,Central African Republic,NA,140,2000,5.55
+39,Estimates,Chad,NA,148,2000,7.407
+40,Estimates,Congo,NA,178,2000,5.125
+41,Estimates,Democratic Republic of the Congo,NA,180,2000,6.77
+42,Estimates,Equatorial Guinea,NA,226,2000,5.9361
+43,Estimates,Gabon,NA,266,2000,4.766
+44,Estimates,Sao Tome and Principe,NA,678,2000,5.4106
+46,Estimates,Algeria,NA,12,2000,2.885
+47,Estimates,Egypt,NA,818,2000,3.405
+48,Estimates,Libya,NA,434,2000,3.2
+49,Estimates,Morocco,NA,504,2000,2.968
+50,Estimates,Sudan,NA,729,2000,5.65
+51,Estimates,Tunisia,NA,788,2000,2.3435
+52,Estimates,Western Sahara,NA,732,2000,3.4
+54,Estimates,Botswana,NA,72,2000,3.675
+55,Estimates,Lesotho,NA,426,2000,4.373
+56,Estimates,Namibia,NA,516,2000,4.292
+57,Estimates,South Africa,NA,710,2000,2.95
+58,Estimates,Swaziland,NA,748,2000,4.45
+60,Estimates,Benin,NA,204,2000,6.1566
+61,Estimates,Burkina Faso,NA,854,2000,6.7293
+62,Estimates,Cabo Verde,NA,132,2000,4.1449
+63,Estimates,Côte d'Ivoire,NA,384,2000,6.05
+64,Estimates,Gambia,NA,270,2000,5.9907
+65,Estimates,Ghana,NA,288,2000,5.0189
+66,Estimates,Guinea,NA,324,2000,6.2354
+67,Estimates,Guinea-Bissau,NA,624,2000,6.0471
+68,Estimates,Liberia,NA,430,2000,6.0481
+69,Estimates,Mali,NA,466,2000,6.95
+70,Estimates,Mauritania,NA,478,2000,5.6073
+71,Estimates,Niger,NA,562,2000,7.7
+72,Estimates,Nigeria,NA,566,2000,6.1703
+73,Estimates,Senegal,NA,686,2000,5.725
+74,Estimates,Sierra Leone,NA,694,2000,6.4779
+75,Estimates,Togo,NA,768,2000,5.5448
+78,Estimates,China,4,156,2000,1.51
+79,Estimates,"China, Hong Kong SAR",5,344,2000,1.06
+80,Estimates,"China, Macao SAR",6,446,2000,1.116
+81,Estimates,"China, Taiwan Province of China",NA,158,2000,1.6675
+82,Estimates,Dem. People's Republic of Korea,NA,408,2000,2.01
+83,Estimates,Japan,NA,392,2000,1.369
+84,Estimates,Mongolia,NA,496,2000,2.3957
+85,Estimates,Republic of Korea,NA,410,2000,1.5005
+88,Estimates,Kazakhstan,NA,398,2000,2
+89,Estimates,Kyrgyzstan,NA,417,2000,2.9582
+90,Estimates,Tajikistan,NA,762,2000,4.29
+91,Estimates,Turkmenistan,NA,795,2000,3.03
+92,Estimates,Uzbekistan,NA,860,2000,3.1
+94,Estimates,Afghanistan,NA,4,2000,7.6537
+95,Estimates,Bangladesh,NA,50,2000,3.4325
+96,Estimates,Bhutan,NA,64,2000,4.1287
+97,Estimates,India,NA,356,2000,3.4829
+98,Estimates,Iran (Islamic Republic of),NA,364,2000,2.634
+99,Estimates,Maldives,NA,462,2000,3.5197
+100,Estimates,Nepal,NA,524,2000,4.4066
+101,Estimates,Pakistan,NA,586,2000,4.9945
+102,Estimates,Sri Lanka,NA,144,2000,2.2431
+104,Estimates,Brunei Darussalam,NA,96,2000,2.5076
+105,Estimates,Cambodia,NA,116,2000,4.25
+106,Estimates,Indonesia,NA,360,2000,2.55
+107,Estimates,Lao People's Democratic Republic,NA,418,2000,4.8064
+108,Estimates,Malaysia,8,458,2000,3.1251
+109,Estimates,Myanmar,NA,104,2000,2.95
+110,Estimates,Philippines,NA,608,2000,3.9
+111,Estimates,Singapore,NA,702,2000,1.5705
+112,Estimates,Thailand,NA,764,2000,1.7668
+113,Estimates,Timor-Leste,NA,626,2000,7.005
+114,Estimates,Viet Nam,NA,704,2000,2.2493
+116,Estimates,Armenia,NA,51,2000,1.75
+117,Estimates,Azerbaijan,9,31,2000,2.25
+118,Estimates,Bahrain,NA,48,2000,2.95
+119,Estimates,Cyprus,10,196,2000,1.8891
+120,Estimates,Georgia,11,268,2000,1.72
+121,Estimates,Iraq,NA,368,2000,5.1882
+122,Estimates,Israel,NA,376,2000,2.9325
+123,Estimates,Jordan,NA,400,2000,4.3
+124,Estimates,Kuwait,NA,414,2000,3
+125,Estimates,Lebanon,NA,422,2000,2.434
+126,Estimates,Oman,NA,512,2000,4.464
+127,Estimates,Qatar,NA,634,2000,3.46
+128,Estimates,Saudi Arabia,NA,682,2000,4.4
+129,Estimates,State of Palestine,12,275,2000,5.8052
+130,Estimates,Syrian Arab Republic,NA,760,2000,4.3
+131,Estimates,Turkey,NA,792,2000,2.6477
+132,Estimates,United Arab Emirates,NA,784,2000,2.97
+133,Estimates,Yemen,NA,887,2000,6.8
+136,Estimates,Belarus,NA,112,2000,1.3113
+137,Estimates,Bulgaria,NA,100,2000,1.2008
+138,Estimates,Czechia,NA,203,2000,1.167
+139,Estimates,Hungary,NA,348,2000,1.3784
+140,Estimates,Poland,NA,616,2000,1.5147
+141,Estimates,Republic of Moldova,13,498,2000,1.7
+142,Estimates,Romania,NA,642,2000,1.338
+143,Estimates,Russian Federation,NA,643,2000,1.247
+144,Estimates,Slovakia,NA,703,2000,1.401
+145,Estimates,Ukraine,14,804,2000,1.2404
+147,Estimates,Channel Islands,16,830,2000,1.4
+148,Estimates,Denmark,NA,208,2000,1.756
+149,Estimates,Estonia,NA,233,2000,1.331
+150,Estimates,Finland,17,246,2000,1.743
+151,Estimates,Iceland,NA,352,2000,2.0558
+152,Estimates,Ireland,NA,372,2000,1.94
+153,Estimates,Latvia,NA,428,2000,1.1722
+154,Estimates,Lithuania,NA,440,2000,1.4716
+155,Estimates,Norway,18,578,2000,1.862
+156,Estimates,Sweden,NA,752,2000,1.5589
+157,Estimates,United Kingdom,NA,826,2000,1.735
+159,Estimates,Albania,NA,8,2000,2.3841
+160,Estimates,Bosnia and Herzegovina,NA,70,2000,1.68
+161,Estimates,Croatia,NA,191,2000,1.62
+162,Estimates,Greece,NA,300,2000,1.346
+163,Estimates,Italy,NA,380,2000,1.2239
+164,Estimates,Malta,NA,470,2000,1.8832
+165,Estimates,Montenegro,NA,499,2000,1.91
+166,Estimates,Portugal,NA,620,2000,1.455
+167,Estimates,Serbia,20,688,2000,1.8312
+168,Estimates,Slovenia,NA,705,2000,1.2483
+169,Estimates,Spain,21,724,2000,1.19
+170,Estimates,TFYR Macedonia,22,807,2000,1.8262
+172,Estimates,Austria,NA,40,2000,1.3879
+173,Estimates,Belgium,NA,56,2000,1.6041
+174,Estimates,France,NA,250,2000,1.7621
+175,Estimates,Germany,NA,276,2000,1.3456
+176,Estimates,Luxembourg,NA,442,2000,1.7213
+177,Estimates,Netherlands,NA,528,2000,1.5991
+178,Estimates,Switzerland,NA,756,2000,1.484
+181,Estimates,Antigua and Barbuda,NA,28,2000,2.3125
+182,Estimates,Aruba,NA,533,2000,1.9531
+183,Estimates,Bahamas,NA,44,2000,2.3275
+184,Estimates,Barbados,NA,52,2000,1.74
+185,Estimates,Cuba,NA,192,2000,1.6449
+186,Estimates,Curaçao,NA,531,2000,2.121
+187,Estimates,Dominican Republic,NA,214,2000,2.98
+188,Estimates,Grenada,NA,308,2000,2.8144
+189,Estimates,Guadeloupe,25,312,2000,2.1
+190,Estimates,Haiti,NA,332,2000,4.6192
+191,Estimates,Jamaica,NA,388,2000,2.7
+192,Estimates,Martinique,NA,474,2000,1.9
+193,Estimates,Puerto Rico,NA,630,2000,1.985
+194,Estimates,Saint Lucia,NA,662,2000,2.6
+195,Estimates,Saint Vincent and the Grenadines,NA,670,2000,2.55
+196,Estimates,Trinidad and Tobago,NA,780,2000,1.82
+197,Estimates,United States Virgin Islands,NA,850,2000,2.1936
+199,Estimates,Belize,NA,84,2000,3.85
+200,Estimates,Costa Rica,NA,188,2000,2.6139
+201,Estimates,El Salvador,NA,222,2000,3.3395
+202,Estimates,Guatemala,NA,320,2000,4.8288
+203,Estimates,Honduras,NA,340,2000,4.344
+204,Estimates,Mexico,NA,484,2000,2.85
+205,Estimates,Nicaragua,NA,558,2000,3.4
+206,Estimates,Panama,NA,591,2000,2.8134
+208,Estimates,Argentina,NA,32,2000,2.63
+209,Estimates,Bolivia (Plurinational State of),NA,68,2000,4.2892
+210,Estimates,Brazil,NA,76,2000,2.47
+211,Estimates,Chile,NA,152,2000,2.2054
+212,Estimates,Colombia,NA,170,2000,2.5
+213,Estimates,Ecuador,NA,218,2000,3.2
+214,Estimates,French Guiana,NA,254,2000,3.9265
+215,Estimates,Guyana,NA,328,2000,3.0549
+216,Estimates,Paraguay,NA,600,2000,3.88
+217,Estimates,Peru,NA,604,2000,3.1
+218,Estimates,Suriname,NA,740,2000,2.9633
+219,Estimates,Uruguay,NA,858,2000,2.3
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,2000,2.9415
+222,Estimates,Canada,NA,124,2000,1.562
+223,Estimates,United States of America,NA,840,2000,1.9965
+226,Estimates,Australia,28,36,2000,1.7866
+227,Estimates,New Zealand,NA,554,2000,1.9525
+229,Estimates,Fiji,NA,242,2000,3.19
+230,Estimates,New Caledonia,NA,540,2000,2.5763
+231,Estimates,Papua New Guinea,NA,598,2000,4.637
+232,Estimates,Solomon Islands,NA,90,2000,4.905
+233,Estimates,Vanuatu,NA,548,2000,4.59
+235,Estimates,Guam,NA,316,2000,2.88
+236,Estimates,Kiribati,NA,296,2000,4.198
+237,Estimates,Micronesia (Fed. States of),NA,583,2000,4.5275
+239,Estimates,French Polynesia,NA,258,2000,2.6133
+240,Estimates,Samoa,NA,882,2000,4.6203
+241,Estimates,Tonga,NA,776,2000,4.2912
+15,Estimates,Burundi,NA,108,2005,6.85
+16,Estimates,Comoros,NA,174,2005,5.2
+17,Estimates,Djibouti,NA,262,2005,4.21
+18,Estimates,Eritrea,NA,232,2005,5.1
+19,Estimates,Ethiopia,NA,231,2005,6.131
+20,Estimates,Kenya,NA,404,2005,5
+21,Estimates,Madagascar,NA,450,2005,5.278
+22,Estimates,Malawi,NA,454,2005,6
+23,Estimates,Mauritius,1,480,2005,1.9335
+24,Estimates,Mayotte,NA,175,2005,4.8
+25,Estimates,Mozambique,NA,508,2005,5.8
+26,Estimates,Réunion,NA,638,2005,2.445
+27,Estimates,Rwanda,NA,646,2005,5.4
+28,Estimates,Seychelles,NA,690,2005,2.2
+29,Estimates,Somalia,NA,706,2005,7.465
+30,Estimates,South Sudan,NA,728,2005,6
+31,Estimates,Uganda,NA,800,2005,6.745
+32,Estimates,United Republic of Tanzania,2,834,2005,5.66
+33,Estimates,Zambia,NA,894,2005,5.95
+34,Estimates,Zimbabwe,NA,716,2005,4
+36,Estimates,Angola,NA,24,2005,6.55
+37,Estimates,Cameroon,NA,120,2005,5.45
+38,Estimates,Central African Republic,NA,140,2005,5.45
+39,Estimates,Chad,NA,148,2005,7.237
+40,Estimates,Congo,NA,178,2005,5.07
+41,Estimates,Democratic Republic of the Congo,NA,180,2005,6.7167
+42,Estimates,Equatorial Guinea,NA,226,2005,5.692
+43,Estimates,Gabon,NA,266,2005,4.35
+44,Estimates,Sao Tome and Principe,NA,678,2005,5.1486
+46,Estimates,Algeria,NA,12,2005,2.3843
+47,Estimates,Egypt,NA,818,2005,3.15
+48,Estimates,Libya,NA,434,2005,2.64
+49,Estimates,Morocco,NA,504,2005,2.68
+50,Estimates,Sudan,NA,729,2005,5.3
+51,Estimates,Tunisia,NA,788,2005,2.04
+52,Estimates,Western Sahara,NA,732,2005,2.85
+54,Estimates,Botswana,NA,72,2005,3.15
+55,Estimates,Lesotho,NA,426,2005,3.793
+56,Estimates,Namibia,NA,516,2005,3.808
+57,Estimates,South Africa,NA,710,2005,2.75
+58,Estimates,Swaziland,NA,748,2005,4
+60,Estimates,Benin,NA,204,2005,5.7841
+61,Estimates,Burkina Faso,NA,854,2005,6.4306
+62,Estimates,Cabo Verde,NA,132,2005,3.4183
+63,Estimates,Côte d'Ivoire,NA,384,2005,5.68
+64,Estimates,Gambia,NA,270,2005,5.8961
+65,Estimates,Ghana,NA,288,2005,4.6428
+66,Estimates,Guinea,NA,324,2005,5.9118
+67,Estimates,Guinea-Bissau,NA,624,2005,5.6
+68,Estimates,Liberia,NA,430,2005,5.6793
+69,Estimates,Mali,NA,466,2005,6.85
+70,Estimates,Mauritania,NA,478,2005,5.309
+71,Estimates,Niger,NA,562,2005,7.65
+72,Estimates,Nigeria,NA,566,2005,6.0512
+73,Estimates,Senegal,NA,686,2005,5.275
+74,Estimates,Sierra Leone,NA,694,2005,6.1074
+75,Estimates,Togo,NA,768,2005,5.3064
+78,Estimates,China,4,156,2005,1.55
+79,Estimates,"China, Hong Kong SAR",5,344,2005,0.95
+80,Estimates,"China, Macao SAR",6,446,2005,0.8252
+81,Estimates,"China, Taiwan Province of China",NA,158,2005,1.325
+82,Estimates,Dem. People's Republic of Korea,NA,408,2005,2
+83,Estimates,Japan,NA,392,2005,1.298
+84,Estimates,Mongolia,NA,496,2005,2.0759
+85,Estimates,Republic of Korea,NA,410,2005,1.2137
+88,Estimates,Kazakhstan,NA,398,2005,2.006
+89,Estimates,Kyrgyzstan,NA,417,2005,2.5
+90,Estimates,Tajikistan,NA,762,2005,3.6
+91,Estimates,Turkmenistan,NA,795,2005,2.755
+92,Estimates,Uzbekistan,NA,860,2005,2.5126
+94,Estimates,Afghanistan,NA,4,2005,7.1816
+95,Estimates,Bangladesh,NA,50,2005,2.9364
+96,Estimates,Bhutan,NA,64,2005,3.1436
+97,Estimates,India,NA,356,2005,3.1405
+98,Estimates,Iran (Islamic Republic of),NA,364,2005,1.9666
+99,Estimates,Maldives,NA,462,2005,2.5733
+100,Estimates,Nepal,NA,524,2005,3.6361
+101,Estimates,Pakistan,NA,586,2005,4.23
+102,Estimates,Sri Lanka,NA,144,2005,2.262
+104,Estimates,Brunei Darussalam,NA,96,2005,1.9886
+105,Estimates,Cambodia,NA,116,2005,3.44
+106,Estimates,Indonesia,NA,360,2005,2.525
+107,Estimates,Lao People's Democratic Republic,NA,418,2005,3.9
+108,Estimates,Malaysia,8,458,2005,2.4545
+109,Estimates,Myanmar,NA,104,2005,2.87
+110,Estimates,Philippines,NA,608,2005,3.7
+111,Estimates,Singapore,NA,702,2005,1.3481
+112,Estimates,Thailand,NA,764,2005,1.6026
+113,Estimates,Timor-Leste,NA,626,2005,6.955
+114,Estimates,Viet Nam,NA,704,2005,1.9206
+116,Estimates,Armenia,NA,51,2005,1.65
+117,Estimates,Azerbaijan,9,31,2005,1.9
+118,Estimates,Bahrain,NA,48,2005,2.65
+119,Estimates,Cyprus,10,196,2005,1.591
+120,Estimates,Georgia,11,268,2005,1.58
+121,Estimates,Iraq,NA,368,2005,4.655
+122,Estimates,Israel,NA,376,2005,2.9111
+123,Estimates,Jordan,NA,400,2005,3.8525
+124,Estimates,Kuwait,NA,414,2005,2.6
+125,Estimates,Lebanon,NA,422,2005,2.0101
+126,Estimates,Oman,NA,512,2005,3.2
+127,Estimates,Qatar,NA,634,2005,2.95
+128,Estimates,Saudi Arabia,NA,682,2005,3.65
+129,Estimates,State of Palestine,12,275,2005,5.0155
+130,Estimates,Syrian Arab Republic,NA,760,2005,3.8
+131,Estimates,Turkey,NA,792,2005,2.3735
+132,Estimates,United Arab Emirates,NA,784,2005,2.4
+133,Estimates,Yemen,NA,887,2005,5.9
+136,Estimates,Belarus,NA,112,2005,1.2551
+137,Estimates,Bulgaria,NA,100,2005,1.2404
+138,Estimates,Czechia,NA,203,2005,1.187
+139,Estimates,Hungary,NA,348,2005,1.295
+140,Estimates,Poland,NA,616,2005,1.2587
+141,Estimates,Republic of Moldova,13,498,2005,1.2378
+142,Estimates,Romania,NA,642,2005,1.32
+143,Estimates,Russian Federation,NA,643,2005,1.298
+144,Estimates,Slovakia,NA,703,2005,1.2205
+145,Estimates,Ukraine,14,804,2005,1.1455
+147,Estimates,Channel Islands,16,830,2005,1.414
+148,Estimates,Denmark,NA,208,2005,1.76
+149,Estimates,Estonia,NA,233,2005,1.391
+150,Estimates,Finland,17,246,2005,1.754
+151,Estimates,Iceland,NA,352,2005,1.9937
+152,Estimates,Ireland,NA,372,2005,1.965
+153,Estimates,Latvia,NA,428,2005,1.2856
+154,Estimates,Lithuania,NA,440,2005,1.2782
+155,Estimates,Norway,18,578,2005,1.8061
+156,Estimates,Sweden,NA,752,2005,1.6703
+157,Estimates,United Kingdom,NA,826,2005,1.655
+159,Estimates,Albania,NA,8,2005,1.9465
+160,Estimates,Bosnia and Herzegovina,NA,70,2005,1.318
+161,Estimates,Croatia,NA,191,2005,1.41
+162,Estimates,Greece,NA,300,2005,1.331
+163,Estimates,Italy,NA,380,2005,1.2974
+164,Estimates,Malta,NA,470,2005,1.4699
+165,Estimates,Montenegro,NA,499,2005,1.8536
+166,Estimates,Portugal,NA,620,2005,1.4513
+167,Estimates,Serbia,20,688,2005,1.7084
+168,Estimates,Slovenia,NA,705,2005,1.2114
+169,Estimates,Spain,21,724,2005,1.29
+170,Estimates,TFYR Macedonia,22,807,2005,1.6375
+172,Estimates,Austria,NA,40,2005,1.3796
+173,Estimates,Belgium,NA,56,2005,1.6836
+174,Estimates,France,NA,250,2005,1.8823
+175,Estimates,Germany,NA,276,2005,1.3513
+176,Estimates,Luxembourg,NA,442,2005,1.654
+177,Estimates,Netherlands,NA,528,2005,1.7396
+178,Estimates,Switzerland,NA,756,2005,1.4079
+181,Estimates,Antigua and Barbuda,NA,28,2005,2.2714
+182,Estimates,Aruba,NA,533,2005,1.8162
+183,Estimates,Bahamas,NA,44,2005,1.8653
+184,Estimates,Barbados,NA,52,2005,1.75
+185,Estimates,Cuba,NA,192,2005,1.5903
+186,Estimates,Curaçao,NA,531,2005,2.0915
+187,Estimates,Dominican Republic,NA,214,2005,2.83
+188,Estimates,Grenada,NA,308,2005,2.4289
+189,Estimates,Guadeloupe,25,312,2005,2.0796
+190,Estimates,Haiti,NA,332,2005,3.9984
+191,Estimates,Jamaica,NA,388,2005,2.45
+192,Estimates,Martinique,NA,474,2005,1.924
+193,Estimates,Puerto Rico,NA,630,2005,1.85
+194,Estimates,Saint Lucia,NA,662,2005,1.85
+195,Estimates,Saint Vincent and the Grenadines,NA,670,2005,2.237
+196,Estimates,Trinidad and Tobago,NA,780,2005,1.75
+197,Estimates,United States Virgin Islands,NA,850,2005,2.1397
+199,Estimates,Belize,NA,84,2005,3.35
+200,Estimates,Costa Rica,NA,188,2005,2.1674
+201,Estimates,El Salvador,NA,222,2005,2.7225
+202,Estimates,Guatemala,NA,320,2005,4.3321
+203,Estimates,Honduras,NA,340,2005,3.7595
+204,Estimates,Mexico,NA,484,2005,2.61
+205,Estimates,Nicaragua,NA,558,2005,2.8445
+206,Estimates,Panama,NA,591,2005,2.6842
+208,Estimates,Argentina,NA,32,2005,2.515
+209,Estimates,Bolivia (Plurinational State of),NA,68,2005,3.8184
+210,Estimates,Brazil,NA,76,2005,2.13
+211,Estimates,Chile,NA,152,2005,2.0293
+212,Estimates,Colombia,NA,170,2005,2.3
+213,Estimates,Ecuador,NA,218,2005,2.884
+214,Estimates,French Guiana,NA,254,2005,3.724
+215,Estimates,Guyana,NA,328,2005,2.9498
+216,Estimates,Paraguay,NA,600,2005,3.2397
+217,Estimates,Peru,NA,604,2005,2.8
+218,Estimates,Suriname,NA,740,2005,2.7657
+219,Estimates,Uruguay,NA,858,2005,2.2
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,2005,2.723
+222,Estimates,Canada,NA,124,2005,1.516
+223,Estimates,United States of America,NA,840,2005,2.042
+226,Estimates,Australia,28,36,2005,1.7739
+227,Estimates,New Zealand,NA,554,2005,1.949
+229,Estimates,Fiji,NA,242,2005,2.98
+230,Estimates,New Caledonia,NA,540,2005,2.32
+231,Estimates,Papua New Guinea,NA,598,2005,4.385
+232,Estimates,Solomon Islands,NA,90,2005,4.6
+233,Estimates,Vanuatu,NA,548,2005,4.11
+235,Estimates,Guam,NA,316,2005,2.74
+236,Estimates,Kiribati,NA,296,2005,3.96
+237,Estimates,Micronesia (Fed. States of),NA,583,2005,4.05
+239,Estimates,French Polynesia,NA,258,2005,2.3608
+240,Estimates,Samoa,NA,882,2005,4.4359
+241,Estimates,Tonga,NA,776,2005,4.2278
+15,Estimates,Burundi,NA,108,2010,6.5
+16,Estimates,Comoros,NA,174,2010,4.9
+17,Estimates,Djibouti,NA,262,2010,3.55
+18,Estimates,Eritrea,NA,232,2010,4.8
+19,Estimates,Ethiopia,NA,231,2010,5.258
+20,Estimates,Kenya,NA,404,2010,4.65
+21,Estimates,Madagascar,NA,450,2010,4.83
+22,Estimates,Malawi,NA,454,2010,5.725
+23,Estimates,Mauritius,1,480,2010,1.698
+24,Estimates,Mayotte,NA,175,2010,4.6
+25,Estimates,Mozambique,NA,508,2010,5.65
+26,Estimates,Réunion,NA,638,2010,2.3969
+27,Estimates,Rwanda,NA,646,2010,4.85
+28,Estimates,Seychelles,NA,690,2010,2.3
+29,Estimates,Somalia,NA,706,2010,7.102
+30,Estimates,South Sudan,NA,728,2010,5.6
+31,Estimates,Uganda,NA,800,2010,6.38
+32,Estimates,United Republic of Tanzania,2,834,2010,5.579
+33,Estimates,Zambia,NA,894,2010,5.6
+34,Estimates,Zimbabwe,NA,716,2010,4
+36,Estimates,Angola,NA,24,2010,6.35
+37,Estimates,Cameroon,NA,120,2010,5.25
+38,Estimates,Central African Republic,NA,140,2010,5.3
+39,Estimates,Chad,NA,148,2010,6.853
+40,Estimates,Congo,NA,178,2010,5
+41,Estimates,Democratic Republic of the Congo,NA,180,2010,6.6334
+42,Estimates,Equatorial Guinea,NA,226,2010,5.4005
+43,Estimates,Gabon,NA,266,2010,4.15
+44,Estimates,Sao Tome and Principe,NA,678,2010,4.9
+46,Estimates,Algeria,NA,12,2010,2.724
+47,Estimates,Egypt,NA,818,2010,2.981
+48,Estimates,Libya,NA,434,2010,2.43
+49,Estimates,Morocco,NA,504,2010,2.55
+50,Estimates,Sudan,NA,729,2010,5
+51,Estimates,Tunisia,NA,788,2010,2.0239
+52,Estimates,Western Sahara,NA,732,2010,2.55
+54,Estimates,Botswana,NA,72,2010,2.9
+55,Estimates,Lesotho,NA,426,2010,3.373
+56,Estimates,Namibia,NA,516,2010,3.6
+57,Estimates,South Africa,NA,710,2010,2.625
+58,Estimates,Swaziland,NA,748,2010,3.75
+60,Estimates,Benin,NA,204,2010,5.4949
+61,Estimates,Burkina Faso,NA,854,2010,6.0789
+62,Estimates,Cabo Verde,NA,132,2010,2.887
+63,Estimates,Côte d'Ivoire,NA,384,2010,5.3975
+64,Estimates,Gambia,NA,270,2010,5.7649
+65,Estimates,Ghana,NA,288,2010,4.3653
+66,Estimates,Guinea,NA,324,2010,5.535
+67,Estimates,Guinea-Bissau,NA,624,2010,5.2
+68,Estimates,Liberia,NA,430,2010,5.2287
+69,Estimates,Mali,NA,466,2010,6.7
+70,Estimates,Mauritania,NA,478,2010,5.0734
+71,Estimates,Niger,NA,562,2010,7.55
+72,Estimates,Nigeria,NA,566,2010,5.91
+73,Estimates,Senegal,NA,686,2010,5.1
+74,Estimates,Sierra Leone,NA,694,2010,5.5651
+75,Estimates,Togo,NA,768,2010,5.0358
+78,Estimates,China,4,156,2010,1.58
+79,Estimates,"China, Hong Kong SAR",5,344,2010,1.0362
+80,Estimates,"China, Macao SAR",6,446,2010,0.9379
+81,Estimates,"China, Taiwan Province of China",NA,158,2010,1.0508
+82,Estimates,Dem. People's Republic of Korea,NA,408,2010,1.999
+83,Estimates,Japan,NA,392,2010,1.3388
+84,Estimates,Mongolia,NA,496,2010,2.3731
+85,Estimates,Republic of Korea,NA,410,2010,1.173
+88,Estimates,Kazakhstan,NA,398,2010,2.5406
+89,Estimates,Kyrgyzstan,NA,417,2010,2.78
+90,Estimates,Tajikistan,NA,762,2010,3.5
+91,Estimates,Turkmenistan,NA,795,2010,2.65
+92,Estimates,Uzbekistan,NA,860,2010,2.49
+94,Estimates,Afghanistan,NA,4,2010,6.3712
+95,Estimates,Bangladesh,NA,50,2010,2.4811
+96,Estimates,Bhutan,NA,64,2010,2.6187
+97,Estimates,India,NA,356,2010,2.7961
+98,Estimates,Iran (Islamic Republic of),NA,364,2010,1.7946
+99,Estimates,Maldives,NA,462,2010,2.2573
+100,Estimates,Nepal,NA,524,2010,2.9634
+101,Estimates,Pakistan,NA,586,2010,3.98
+102,Estimates,Sri Lanka,NA,144,2010,2.279
+104,Estimates,Brunei Darussalam,NA,96,2010,1.8
+105,Estimates,Cambodia,NA,116,2010,3.0813
+106,Estimates,Indonesia,NA,360,2010,2.5
+107,Estimates,Lao People's Democratic Republic,NA,418,2010,3.4
+108,Estimates,Malaysia,8,458,2010,2.216
+109,Estimates,Myanmar,NA,104,2010,2.55
+110,Estimates,Philippines,NA,608,2010,3.3
+111,Estimates,Singapore,NA,702,2010,1.2571
+112,Estimates,Thailand,NA,764,2010,1.5563
+113,Estimates,Timor-Leste,NA,626,2010,6.53
+114,Estimates,Viet Nam,NA,704,2010,1.9279
+116,Estimates,Armenia,NA,51,2010,1.72
+117,Estimates,Azerbaijan,9,31,2010,1.83
+118,Estimates,Bahrain,NA,48,2010,2.25
+119,Estimates,Cyprus,10,196,2010,1.48
+120,Estimates,Georgia,11,268,2010,1.8
+121,Estimates,Iraq,NA,368,2010,4.55
+122,Estimates,Israel,NA,376,2010,2.927
+123,Estimates,Jordan,NA,400,2010,3.7
+124,Estimates,Kuwait,NA,414,2010,2.4
+125,Estimates,Lebanon,NA,422,2010,1.5754
+126,Estimates,Oman,NA,512,2010,2.9
+127,Estimates,Qatar,NA,634,2010,2.23
+128,Estimates,Saudi Arabia,NA,682,2010,3.225
+129,Estimates,State of Palestine,12,275,2010,4.602
+130,Estimates,Syrian Arab Republic,NA,760,2010,3.35
+131,Estimates,Turkey,NA,792,2010,2.2018
+132,Estimates,United Arab Emirates,NA,784,2010,1.97
+133,Estimates,Yemen,NA,887,2010,5
+136,Estimates,Belarus,NA,112,2010,1.4268
+137,Estimates,Bulgaria,NA,100,2010,1.45
+138,Estimates,Czechia,NA,203,2010,1.4286
+139,Estimates,Hungary,NA,348,2010,1.3288
+140,Estimates,Poland,NA,616,2010,1.374
+141,Estimates,Republic of Moldova,13,498,2010,1.2704
+142,Estimates,Romania,NA,642,2010,1.448
+143,Estimates,Russian Federation,NA,643,2010,1.4389
+144,Estimates,Slovakia,NA,703,2010,1.317
+145,Estimates,Ukraine,14,804,2010,1.3828
+147,Estimates,Channel Islands,16,830,2010,1.42
+148,Estimates,Denmark,NA,208,2010,1.8537
+149,Estimates,Estonia,NA,233,2010,1.662
+150,Estimates,Finland,17,246,2010,1.8396
+151,Estimates,Iceland,NA,352,2010,2.1305
+152,Estimates,Ireland,NA,372,2010,1.9968
+153,Estimates,Latvia,NA,428,2010,1.4926
+154,Estimates,Lithuania,NA,440,2010,1.4174
+155,Estimates,Norway,18,578,2010,1.9235
+156,Estimates,Sweden,NA,752,2010,1.8905
+157,Estimates,United Kingdom,NA,826,2010,1.8738
+159,Estimates,Albania,NA,8,2010,1.64
+160,Estimates,Bosnia and Herzegovina,NA,70,2010,1.312
+161,Estimates,Croatia,NA,191,2010,1.522
+162,Estimates,Greece,NA,300,2010,1.4597
+163,Estimates,Italy,NA,380,2010,1.4169
+164,Estimates,Malta,NA,470,2010,1.3856
+165,Estimates,Montenegro,NA,499,2010,1.82
+166,Estimates,Portugal,NA,620,2010,1.3718
+167,Estimates,Serbia,20,688,2010,1.5835
+168,Estimates,Slovenia,NA,705,2010,1.435
+169,Estimates,Spain,21,724,2010,1.3944
+170,Estimates,TFYR Macedonia,22,807,2010,1.46
+172,Estimates,Austria,NA,40,2010,1.3993
+173,Estimates,Belgium,NA,56,2010,1.821
+174,Estimates,France,NA,250,2010,1.978
+175,Estimates,Germany,NA,276,2010,1.3623
+176,Estimates,Luxembourg,NA,442,2010,1.6206
+177,Estimates,Netherlands,NA,528,2010,1.7461
+178,Estimates,Switzerland,NA,756,2010,1.4692
+181,Estimates,Antigua and Barbuda,NA,28,2010,2.1694
+182,Estimates,Aruba,NA,533,2010,1.76
+183,Estimates,Bahamas,NA,44,2010,1.9076
+184,Estimates,Barbados,NA,52,2010,1.77
+185,Estimates,Cuba,NA,192,2010,1.577
+186,Estimates,Curaçao,NA,531,2010,1.9792
+187,Estimates,Dominican Republic,NA,214,2010,2.67
+188,Estimates,Grenada,NA,308,2010,2.3023
+189,Estimates,Guadeloupe,25,312,2010,2.06
+190,Estimates,Haiti,NA,332,2010,3.5476
+191,Estimates,Jamaica,NA,388,2010,2.28
+192,Estimates,Martinique,NA,474,2010,2.057
+193,Estimates,Puerto Rico,NA,630,2010,1.72
+194,Estimates,Saint Lucia,NA,662,2010,1.6
+195,Estimates,Saint Vincent and the Grenadines,NA,670,2010,2.132
+196,Estimates,Trinidad and Tobago,NA,780,2010,1.8
+197,Estimates,United States Virgin Islands,NA,850,2010,2.4359
+199,Estimates,Belize,NA,84,2010,2.84
+200,Estimates,Costa Rica,NA,188,2010,2.0074
+201,Estimates,El Salvador,NA,222,2010,2.3952
+202,Estimates,Guatemala,NA,320,2010,3.6213
+203,Estimates,Honduras,NA,340,2010,3.15
+204,Estimates,Mexico,NA,484,2010,2.4
+205,Estimates,Nicaragua,NA,558,2010,2.5595
+206,Estimates,Panama,NA,591,2010,2.6322
+208,Estimates,Argentina,NA,32,2010,2.4
+209,Estimates,Bolivia (Plurinational State of),NA,68,2010,3.3907
+210,Estimates,Brazil,NA,76,2010,1.86
+211,Estimates,Chile,NA,152,2010,1.944
+212,Estimates,Colombia,NA,170,2010,2.1
+213,Estimates,Ecuador,NA,218,2010,2.7294
+214,Estimates,French Guiana,NA,254,2010,3.6397
+215,Estimates,Guyana,NA,328,2010,2.726
+216,Estimates,Paraguay,NA,600,2010,2.8922
+217,Estimates,Peru,NA,604,2010,2.5995
+218,Estimates,Suriname,NA,740,2010,2.5891
+219,Estimates,Uruguay,NA,858,2010,2.12
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,2010,2.547
+222,Estimates,Canada,NA,124,2010,1.636
+223,Estimates,United States of America,NA,840,2010,2.05
+226,Estimates,Australia,28,36,2010,1.9525
+227,Estimates,New Zealand,NA,554,2010,2.1418
+229,Estimates,Fiji,NA,242,2010,2.75
+230,Estimates,New Caledonia,NA,540,2010,2.28
+231,Estimates,Papua New Guinea,NA,598,2010,4.133
+232,Estimates,Solomon Islands,NA,90,2010,4.4
+233,Estimates,Vanuatu,NA,548,2010,3.63
+235,Estimates,Guam,NA,316,2010,2.539
+236,Estimates,Kiribati,NA,296,2010,3.88
+237,Estimates,Micronesia (Fed. States of),NA,583,2010,3.622
+239,Estimates,French Polynesia,NA,258,2010,2.1673
+240,Estimates,Samoa,NA,882,2010,4.4675
+241,Estimates,Tonga,NA,776,2010,4.0342
+15,Estimates,Burundi,NA,108,2015,6
+16,Estimates,Comoros,NA,174,2015,4.6
+17,Estimates,Djibouti,NA,262,2015,3.1
+18,Estimates,Eritrea,NA,232,2015,4.4
+19,Estimates,Ethiopia,NA,231,2015,4.63
+20,Estimates,Kenya,NA,404,2015,4.1
+21,Estimates,Madagascar,NA,450,2015,4.4
+22,Estimates,Malawi,NA,454,2015,4.875
+23,Estimates,Mauritius,1,480,2015,1.4859
+24,Estimates,Mayotte,NA,175,2015,4.1
+25,Estimates,Mozambique,NA,508,2015,5.45
+26,Estimates,Réunion,NA,638,2015,2.4
+27,Estimates,Rwanda,NA,646,2015,4.2
+28,Estimates,Seychelles,NA,690,2015,2.38
+29,Estimates,Somalia,NA,706,2015,6.6098
+30,Estimates,South Sudan,NA,728,2015,5.15
+31,Estimates,Uganda,NA,800,2015,5.9126
+32,Estimates,United Republic of Tanzania,2,834,2015,5.2395
+33,Estimates,Zambia,NA,894,2015,5.2
+34,Estimates,Zimbabwe,NA,716,2015,4
+36,Estimates,Angola,NA,24,2015,5.95
+37,Estimates,Cameroon,NA,120,2015,4.95
+38,Estimates,Central African Republic,NA,140,2015,5.1
+39,Estimates,Chad,NA,148,2015,6.31
+40,Estimates,Congo,NA,178,2015,4.86
+41,Estimates,Democratic Republic of the Congo,NA,180,2015,6.4
+42,Estimates,Equatorial Guinea,NA,226,2015,4.9942
+43,Estimates,Gabon,NA,266,2015,4
+44,Estimates,Sao Tome and Principe,NA,678,2015,4.6677
+46,Estimates,Algeria,NA,12,2015,2.96
+47,Estimates,Egypt,NA,818,2015,3.381
+48,Estimates,Libya,NA,434,2015,2.4
+49,Estimates,Morocco,NA,504,2015,2.6
+50,Estimates,Sudan,NA,729,2015,4.75
+51,Estimates,Tunisia,NA,788,2015,2.2521
+52,Estimates,Western Sahara,NA,732,2015,2.6
+54,Estimates,Botswana,NA,72,2015,2.875
+55,Estimates,Lesotho,NA,426,2015,3.26
+56,Estimates,Namibia,NA,516,2015,3.6
+57,Estimates,South Africa,NA,710,2015,2.55
+58,Estimates,Swaziland,NA,748,2015,3.3
+60,Estimates,Benin,NA,204,2015,5.2202
+61,Estimates,Burkina Faso,NA,854,2015,5.6462
+62,Estimates,Cabo Verde,NA,132,2015,2.497
+63,Estimates,Côte d'Ivoire,NA,384,2015,5.1357
+64,Estimates,Gambia,NA,270,2015,5.6226
+65,Estimates,Ghana,NA,288,2015,4.1803
+66,Estimates,Guinea,NA,324,2015,5.1345
+67,Estimates,Guinea-Bissau,NA,624,2015,4.9
+68,Estimates,Liberia,NA,430,2015,4.8323
+69,Estimates,Mali,NA,466,2015,6.35
+70,Estimates,Mauritania,NA,478,2015,4.8816
+71,Estimates,Niger,NA,562,2015,7.4
+72,Estimates,Nigeria,NA,566,2015,5.74
+73,Estimates,Senegal,NA,686,2015,5
+74,Estimates,Sierra Leone,NA,694,2015,4.8418
+75,Estimates,Togo,NA,768,2015,4.6895
+78,Estimates,China,4,156,2015,1.6
+79,Estimates,"China, Hong Kong SAR",5,344,2015,1.2045
+80,Estimates,"China, Macao SAR",6,446,2015,1.1923
+81,Estimates,"China, Taiwan Province of China",NA,158,2015,1.1058
+82,Estimates,Dem. People's Republic of Korea,NA,408,2015,1.95
+83,Estimates,Japan,NA,392,2015,1.4087
+84,Estimates,Mongolia,NA,496,2015,2.8325
+85,Estimates,Republic of Korea,NA,410,2015,1.2331
+88,Estimates,Kazakhstan,NA,398,2015,2.7
+89,Estimates,Kyrgyzstan,NA,417,2015,3.1167
+90,Estimates,Tajikistan,NA,762,2015,3.5
+91,Estimates,Turkmenistan,NA,795,2015,3
+92,Estimates,Uzbekistan,NA,860,2015,2.38
+94,Estimates,Afghanistan,NA,4,2015,5.2552
+95,Estimates,Bangladesh,NA,50,2015,2.2208
+96,Estimates,Bhutan,NA,64,2015,2.2
+97,Estimates,India,NA,356,2015,2.4383
+98,Estimates,Iran (Islamic Republic of),NA,364,2015,1.7453
+99,Estimates,Maldives,NA,462,2015,2.2228
+100,Estimates,Nepal,NA,524,2015,2.3178
+101,Estimates,Pakistan,NA,586,2015,3.72
+102,Estimates,Sri Lanka,NA,144,2015,2.1113
+104,Estimates,Brunei Darussalam,NA,96,2015,1.9
+105,Estimates,Cambodia,NA,116,2015,2.7
+106,Estimates,Indonesia,NA,360,2015,2.45
+107,Estimates,Lao People's Democratic Republic,NA,418,2015,2.93
+108,Estimates,Malaysia,8,458,2015,2.1059
+109,Estimates,Myanmar,NA,104,2015,2.3
+110,Estimates,Philippines,NA,608,2015,3.05
+111,Estimates,Singapore,NA,702,2015,1.233
+112,Estimates,Thailand,NA,764,2015,1.5346
+113,Estimates,Timor-Leste,NA,626,2015,5.9124
+114,Estimates,Viet Nam,NA,704,2015,1.9624
+116,Estimates,Armenia,NA,51,2015,1.65
+117,Estimates,Azerbaijan,9,31,2015,2.1
+118,Estimates,Bahrain,NA,48,2015,2.12
+119,Estimates,Cyprus,10,196,2015,1.38
+120,Estimates,Georgia,11,268,2015,2
+121,Estimates,Iraq,NA,368,2015,4.55
+122,Estimates,Israel,NA,376,2015,3.044
+123,Estimates,Jordan,NA,400,2015,3.6
+124,Estimates,Kuwait,NA,414,2015,2.05
+125,Estimates,Lebanon,NA,422,2015,1.7168
+126,Estimates,Oman,NA,512,2015,2.9
+127,Estimates,Qatar,NA,634,2015,2
+128,Estimates,Saudi Arabia,NA,682,2015,2.725
+129,Estimates,State of Palestine,12,275,2015,4.25
+130,Estimates,Syrian Arab Republic,NA,760,2015,3.1
+131,Estimates,Turkey,NA,792,2015,2.121
+132,Estimates,United Arab Emirates,NA,784,2015,1.82
+133,Estimates,Yemen,NA,887,2015,4.4
+136,Estimates,Belarus,NA,112,2015,1.64
+137,Estimates,Bulgaria,NA,100,2015,1.506
+138,Estimates,Czechia,NA,203,2015,1.4789
+139,Estimates,Hungary,NA,348,2015,1.3318
+140,Estimates,Poland,NA,616,2015,1.3338
+141,Estimates,Republic of Moldova,13,498,2015,1.2693
+142,Estimates,Romania,NA,642,2015,1.484
+143,Estimates,Russian Federation,NA,643,2015,1.6977
+144,Estimates,Slovakia,NA,703,2015,1.39
+145,Estimates,Ukraine,14,804,2015,1.4889
+147,Estimates,Channel Islands,16,830,2015,1.4564
+148,Estimates,Denmark,NA,208,2015,1.73
+149,Estimates,Estonia,NA,233,2015,1.5908
+150,Estimates,Finland,17,246,2015,1.77
+151,Estimates,Iceland,NA,352,2015,1.9838
+152,Estimates,Ireland,NA,372,2015,1.996
+153,Estimates,Latvia,NA,428,2015,1.4972
+154,Estimates,Lithuania,NA,440,2015,1.594
+155,Estimates,Norway,18,578,2015,1.8191
+156,Estimates,Sweden,NA,752,2015,1.902
+157,Estimates,United Kingdom,NA,826,2015,1.8781
+159,Estimates,Albania,NA,8,2015,1.7135
+160,Estimates,Bosnia and Herzegovina,NA,70,2015,1.314
+161,Estimates,Croatia,NA,191,2015,1.488
+162,Estimates,Greece,NA,300,2015,1.3434
+163,Estimates,Italy,NA,380,2015,1.4275
+164,Estimates,Malta,NA,470,2015,1.4143
+165,Estimates,Montenegro,NA,499,2015,1.7103
+166,Estimates,Portugal,NA,620,2015,1.2831
+167,Estimates,Serbia,20,688,2015,1.5915
+168,Estimates,Slovenia,NA,705,2015,1.575
+169,Estimates,Spain,21,724,2015,1.3291
+170,Estimates,TFYR Macedonia,22,807,2015,1.5033
+172,Estimates,Austria,NA,40,2015,1.4488
+173,Estimates,Belgium,NA,56,2015,1.7807
+174,Estimates,France,NA,250,2015,1.9821
+175,Estimates,Germany,NA,276,2015,1.427
+176,Estimates,Luxembourg,NA,442,2015,1.5462
+177,Estimates,Netherlands,NA,528,2015,1.732
+178,Estimates,Switzerland,NA,756,2015,1.5258
+181,Estimates,Antigua and Barbuda,NA,28,2015,2.0963
+182,Estimates,Aruba,NA,533,2015,1.8
+183,Estimates,Bahamas,NA,44,2015,1.81
+184,Estimates,Barbados,NA,52,2015,1.79
+185,Estimates,Cuba,NA,192,2015,1.7057
+186,Estimates,Curaçao,NA,531,2015,2.0655
+187,Estimates,Dominican Republic,NA,214,2015,2.5262
+188,Estimates,Grenada,NA,308,2015,2.1826
+189,Estimates,Guadeloupe,25,312,2015,1.9964
+190,Estimates,Haiti,NA,332,2015,3.1299
+191,Estimates,Jamaica,NA,388,2015,2.08
+192,Estimates,Martinique,NA,474,2015,1.9525
+193,Estimates,Puerto Rico,NA,630,2015,1.52
+194,Estimates,Saint Lucia,NA,662,2015,1.5073
+195,Estimates,Saint Vincent and the Grenadines,NA,670,2015,2.0084
+196,Estimates,Trinidad and Tobago,NA,780,2015,1.7959
+197,Estimates,United States Virgin Islands,NA,850,2015,2.3
+199,Estimates,Belize,NA,84,2015,2.64
+200,Estimates,Costa Rica,NA,188,2015,1.8507
+201,Estimates,El Salvador,NA,222,2015,2.17
+202,Estimates,Guatemala,NA,320,2015,3.1923
+203,Estimates,Honduras,NA,340,2015,2.65
+204,Estimates,Mexico,NA,484,2015,2.29
+205,Estimates,Nicaragua,NA,558,2015,2.3183
+206,Estimates,Panama,NA,591,2015,2.6002
+208,Estimates,Argentina,NA,32,2015,2.345
+209,Estimates,Bolivia (Plurinational State of),NA,68,2015,3.0424
+210,Estimates,Brazil,NA,76,2015,1.78
+211,Estimates,Chile,NA,152,2015,1.8199
+212,Estimates,Colombia,NA,170,2015,1.9339
+213,Estimates,Ecuador,NA,218,2015,2.5863
+214,Estimates,French Guiana,NA,254,2015,3.4543
+215,Estimates,Guyana,NA,328,2015,2.5988
+216,Estimates,Paraguay,NA,600,2015,2.5988
+217,Estimates,Peru,NA,604,2015,2.5
+218,Estimates,Suriname,NA,740,2015,2.4598
+219,Estimates,Uruguay,NA,858,2015,2.04
+220,Estimates,Venezuela (Bolivarian Republic of),NA,862,2015,2.4047
+222,Estimates,Canada,NA,124,2015,1.61
+223,Estimates,United States of America,NA,840,2015,1.8765
+226,Estimates,Australia,28,36,2015,1.885
+227,Estimates,New Zealand,NA,554,2015,2.0363
+229,Estimates,Fiji,NA,242,2015,2.605
+230,Estimates,New Caledonia,NA,540,2015,2.24
+231,Estimates,Papua New Guinea,NA,598,2015,3.8376
+232,Estimates,Solomon Islands,NA,90,2015,4.0577
+233,Estimates,Vanuatu,NA,548,2015,3.4113
+235,Estimates,Guam,NA,316,2015,2.4192
+236,Estimates,Kiribati,NA,296,2015,3.7875
+237,Estimates,Micronesia (Fed. States of),NA,583,2015,3.3255
+239,Estimates,French Polynesia,NA,258,2015,2.0708
+240,Estimates,Samoa,NA,882,2015,4.1643
+241,Estimates,Tonga,NA,776,2015,3.7886

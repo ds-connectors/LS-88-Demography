@@ -2,7 +2,7 @@
   "name": "L&S88-02: Lab 03",
   "endpoint": "cal/ls88_2/fa18/lab03",
   "src": [
-     "lab02.ipynb"
+     "lab03.ipynb"
   ],
   "tests": {
       "tests/test_*.py": "ok_test"

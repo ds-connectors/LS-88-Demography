@@ -7,7 +7,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> np.isclose(unpd_1990_r.where('area', 'Armenia').column('Tdbl')[0], -73.827575864831658)
+          >>> np.isclose(unpd_1990_r.where('area', 'Armenia').column('Tdbl')[0], -74.164313127947153)
           True
           """,
           'hidden': False,
@@ -15,7 +15,7 @@ test = {
         },
         {
           'code': r"""
-          >>> np.isclose(unpd_1990_r.where('area', 'Zimbabwe').column('Tdbl')[0], 27.375243745921289)
+          >>> np.isclose(unpd_1990_r.where('area', 'Zimbabwe').column('Tdbl')[0], 27.500105825545823)
           True
           """,
           'hidden': False,

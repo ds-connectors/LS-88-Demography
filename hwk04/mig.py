@@ -4,9 +4,10 @@ from datascience import *
 #import matplotlib
 #matplotlib.use('Agg')
 #import matplotlib.pyplot as plt
-#import numpy as np
-#import os
 #plt.style.use('fivethirtyeight')
+
+import numpy as np
+import os
 
 import pandas as pd
 import zipfile

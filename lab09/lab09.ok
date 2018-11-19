@@ -1,0 +1,16 @@
+{
+  "name": "L&S88-02: Lab 09",
+  "endpoint": "cal/ls88_2/fa18/lab09",
+  "src": [
+     "lab09.ipynb"
+  ],
+  "tests": {
+      "tests/test_*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "locking",
+      "backup"
+  ]
+}
